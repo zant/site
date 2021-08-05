@@ -1,6 +1,6 @@
 ---
 title: "Voluntad y sentido"
-date: 2021-08-07T22:12:00
+date: 2021-08-07T22:12:00-04:00
 ---
 
 Me quedé pensando en la conversacion que tuvimos en el auto sobre el trabajo, la aceptacion del presente y el camino propio. Y me gustaria expander en lo que habia mencionado en ese momento.
