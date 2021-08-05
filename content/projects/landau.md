@@ -1,5 +1,5 @@
 ---
-title: "Voluntad y sentido"
+title: "Formalizing Grundlagen der Analysis in Coq"
 date: 2021-07-05T14:54:48-04:00
 ---
 
