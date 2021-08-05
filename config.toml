@@ -1,3 +1,5 @@
 languageCode = "en-us"
 title = "zant's dump"
 theme = "etch"
+[params]
+mainSections = ['blog', 'projects']
