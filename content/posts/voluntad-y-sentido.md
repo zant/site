@@ -1,5 +1,5 @@
 ---
-title: "How I think about scales"
+title: "Voluntad y sentido"
 date: 2021-07-05T14:54:48-04:00
 ---
 
