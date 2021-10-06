@@ -157,9 +157,7 @@ Let's go back to Meillassoux for a moment, and see how he starts to develop his 
 > but there are also groupings 'by one', or 'by all', which is
 > identical with the whole set).
 >
-> You will always obtain the same
-> result: the set B of possible groupings (or parts) of a set A is
-> always bigger than A - even if A is infinite.o
+
 
 We se that our philosopher is talking about "all possible groupings" of a set. This is the informal definition of a mathematical object called the [Power Set](https://en.wikipedia.org/wiki/Power_set). The power set is defined as follows:
 
@@ -175,7 +173,13 @@ Now, we're ready for the formal statement of Cantor's theorem!
 
 > Let f be a map (relation) from set A to its power set P(A). f: A -> P(A) is not surjective. As a consequence, card(A) < card(P(A)) holds for any set A.
 
-The power set of any set has always bigger cardinality (is bigger) than the original set! Isn't that cool?
+The power set of any set has always bigger cardinality (is bigger) than the original set! Isn't that cool? 
+
+Even more, we can also see that this definitions matches exactly what Meillassoux is mentioning, just after this first quote:
+
+> You will always obtain the same
+> result: the set B of possible groupings (or parts) of a set A is
+> always bigger than A - even if A is infinite.
 
 ## What Meillassoux really meant
 
