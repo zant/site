@@ -156,8 +156,6 @@ Let's go back to Meillassoux for a moment, and see how he starts to develop his 
 > number of possible groupings of these elements (by two, by three
 > but there are also groupings 'by one', or 'by all', which is
 > identical with the whole set).
->
-
 
 We se that our philosopher is talking about "all possible groupings" of a set. This is the informal definition of a mathematical object called the [Power Set](https://en.wikipedia.org/wiki/Power_set). The power set is defined as follows:
 
@@ -167,7 +165,9 @@ First, a subset A from B is just a set which has the _some_ elements of B. For e
 
 We denote the power set of a set by P(S) beign S a set, if we define S = {a, b, c} then,
 
-P(s) = {{}, {a}, {b}, {c}, {a,b}, {a, c}, {b, c}, {a, b, c}}.
+P(s) = {{}, {a}, {b}, {c}, {a,b}, {a, c}, {b, c}, {a, b, c}}. (
+	
+Note that, in set theory, {a,b} = {b,a}, this is to say that ordering doesn't matters.
 
 Now, we're ready for the formal statement of Cantor's theorem!
 
