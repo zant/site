@@ -232,7 +232,7 @@ This is great and all but, this is _an statement_ and we don't see any intuitive
 
 ### Cantor's Paradox
 
-Let's still be kind with our philosopher and try to provider mathematical statements that can back his arguments. 
+Let's still be kind with our philosopher and try to find mathematical statements that can back his arguments. 
 
 Looking again at the work of Cantor, we can see that he has an interesting result which could provide a mathematical, and subsequently, correct argument to what Meillassoux marks as the "the totality of the thinkable is unthinkable".
 
