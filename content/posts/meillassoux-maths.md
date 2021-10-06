@@ -165,13 +165,13 @@ First, a subset A from B is just a set which has the _some_ elements of B. For e
 
 We denote the power set of a set by P(S) beign S a set, if we define S = {a, b, c} then,
 
-P(s) = {{}, {a}, {b}, {c}, {a,b}, {a, c}, {b, c}, {a, b, c}}. (
+P(s) = {{}, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c}}. (
 	
-Note that, in set theory, {a,b} = {b,a}, this is to say that ordering doesn't matters.
+Note that, in set theory, {a, b} = {b, a}, this is to say that ordering doesn't matters.
 
 Now, we're ready for the formal statement of Cantor's theorem!
 
-> Let f be a map (relation) from set A to its power set P(A). f: A -> P(A) is not surjective. As a consequence, card(A) < card(P(A)) holds for any set A.
+> Let f be a map (relation) from set A to its power set P(A). Statement: This relation is not surjective. As a consequence, card(A) < card(P(A)) holds for any set A.
 
 The power set of any set has always bigger cardinality (is bigger) than the original set! Isn't that cool? 
 
