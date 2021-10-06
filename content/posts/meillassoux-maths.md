@@ -199,6 +199,7 @@ We can see this visually, starting at S = S.
 3. P(P(S)). Take the power set of S.
 5. S = P(P(S)). Let S now be this power set
 6. P(P(P(S))
+7. ...
 
 This procedure, together with the fact that card(P(S)) > card(S). Means that, if we keep taking on power sets, we will always have bigger and bigger cardinality for each one of them. Each new one having bigger cardinality than the previous one.
 
