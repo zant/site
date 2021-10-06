@@ -3,6 +3,8 @@ title: "Voluntad y sentido"
 date: 2021-08-04
 ---
 
+> **Disclaimer:** This is a very specific post. Written poorly and not super clear. Left here as this is my dump after all.
+
 Me quedé pensando en la conversacion que tuvimos en el auto sobre el trabajo, la aceptacion del presente y el camino propio. Y me gustaria expander en lo que habia mencionado en ese momento.
 
 Recuerdo que la conversacion de alguna forma empezo luego de una breve mesa redonda donde todos discutiamos que planes teniamos para el futuro. 
