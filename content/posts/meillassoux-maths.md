@@ -24,6 +24,8 @@ The following post will elaborate on the specificity and technical details in a 
 
 This post will provide the necessary background to follow all concepts embbedded in the mathematical references made by Meillassoux in his essay.
 
+Furthermore, it also explores one section of the argument which does not explicitely provides a theorem backing a mathematical statement assumed as true by the philosopher.
+
 This post intends to be a guide over the mathematical references of the essay, as so, I'll heavily quote sentences to start referencing the mathematical details. All quotes are from the last section of the chapter "Hume's Problem".
 
 **Disclaimer:** This post does not intend to be an exhaustive or even correct interpretation of the essay. I'm not a professional mathematician and please check all citations and resources linked.
@@ -250,7 +252,9 @@ So, in this iteration we are constantly creating different cardinalities, one bi
 
 Furthermore, this theorem says that "Any set S cannot contain elements of all cardinalities". So, as we're always creating new cardinalities, and there's not set containing _all_ cardinalities, i.e. at least one cardinality will not be there, then, it's impossible to have a set comprising all power sets of this iterative process! Or have have a set T that comprises the Totality, in Meillassoux terms.
 
-With this last theorem, can see that Meillassoux was indeed mathematically backed, and this theorem explicitely tells us what we needed. That's a save! We can now safely go to bed knowing that our philosopher was indeed taking all mathematical cares to give us his conclusions.
+With this last theorem, can see that Meillassoux was indeed mathematically backed. This last theorem explicitely tells us what is needed to provide a logical conclusion, if you're curious, the proof can be found [here](https://en.wikipedia.org/wiki/Cantor%27s_paradox#Statements_and_proofs). 
+
+That's a save! We can now safely go to bed knowing that our philosopher was indeed taking all mathematical precautions to propertly state his conclusions.
 
 ## Conclusion
 
