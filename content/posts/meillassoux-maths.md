@@ -24,7 +24,7 @@ The following post will elaborate on the specificity and technical details in a 
 
 This post will provide the necessary background to follow all concepts embbedded in the mathematical references made by Meillassoux in his essay.
 
-Furthermore, it also explores one section of the argument which does not explicitely provides a theorem backing a mathematical statement assumed as true by the philosopher.
+Furthermore, it also explores one section of the argument which does not explicitely provides a theorem backing a mathematical statement assumed as true by the philosopher. And finally, tries to find a theorem for this statement.
 
 This post intends to be a guide over the mathematical references of the essay, as so, I'll heavily quote sentences to start referencing the mathematical details. All quotes are from the last section of the chapter "Hume's Problem".
 
