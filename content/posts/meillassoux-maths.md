@@ -234,17 +234,21 @@ This is great and all but, this is _an statement_ and we don't see any intuitive
 
 Let's still be kind with our philosopher and try to find mathematical statements that can back his arguments. 
 
-Looking again at the work of Cantor, we can see that he has an interesting result which could provide a mathematical, and subsequently, correct argument to what Meillassoux marks as the "the totality of the thinkable is unthinkable".
+Looking again at the work of Cantor, we can see that he has an interesting result which could provide a mathematical -and subsequently- correct argument to what Meillassoux marks as the "the totality of the thinkable is unthinkable".
 
-This result is known as Cantor's Paradox. But don't be fooled by its name, the paradox does not comes from the theorem itself - which is correct and consistent - but from the consequences of it. For our purposes, let's focus on the theorem itself, and remember that a statement which is a theorem, is matematically and logically correct.
+This result is known as Cantor's Paradox. But don't be fooled by its name, the paradox does not comes from the theorem itself -which is correct and consistent as any other theorem-  but from the consequences of it.
+
+For our purposes, let's focus on the theorem itself, taking in mind that a statement which is a theorem ensures mathematical and logical correctness.
 
 > **Theorem:** If S is any set then S cannot contain elements of all cardinalities. In fact, there is a strict upper bound on the cardinalities of the elements of S.
 
 This seems promising. Let's focus only on the first part of this assertion. 
 
-If we think of this assertion in Meillassoux terms, let's first remember about our iterative process, that generated P(S), P(P(S)) an so on. By Cantor's theorem, we know that card(P(S)) > P(P(S)). So each term of the iteration will have _a different cardinality_.
+If we think of this assertion in Meillassoux terms, let's first remember about our iterative process that generated P(S), P(P(S)) an so on. By Cantor's theorem, we know that card(P(S)) > P(P(S)). So each term of the iteration will have _a different cardinality_.
 
-So, in this iteration we have are constantly creating different cardinalities, one bigger than the other. But this theorem says that "Any set S cannot contain elements of all cardinalities". So, as we're creating always new cardinalities, and there's not set containing _all_ cardinalities, meaning at least one cardinality will not be there, then, it's impossible to have a set comprising all power sets! Or "all possible groupings in sequence" in Meillassoux terms.
+So, in this iteration we are constantly creating different cardinalities, one bigger than the other.
+
+Furthermore, this theorem says that "Any set S cannot contain elements of all cardinalities". So, as we're always creating new cardinalities, and there's not set containing _all_ cardinalities, i.e. at least one cardinality will not be there, then, it's impossible to have a set comprising all power sets of this iterative process! Or have have a set T that comprises the Totality, in Meillassoux terms.
 
 With this last theorem, can see that Meillassoux was indeed mathematically backed, and this theorem explicitely tells us what we needed. That's a save! We can now safely go to bed knowing that our philosopher was indeed taking all mathematical cares to give us his conclusions.
 
