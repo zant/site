@@ -1,6 +1,7 @@
 ---
 title: "Voluntad y sentido"
 date: 2021-08-04
+draft: true
 ---
 
 > **Disclaimer:** This is a very specific post. Written poorly and not super clear. Left here as this is my dump after all.
