@@ -1,4 +1,4 @@
-baseURL = "https://blog.zant.xyz"
+baseURL = "https://dump.zant.xyz"
 languageCode = "en-us"
 title = "zant's dump"
 theme = "etch"
