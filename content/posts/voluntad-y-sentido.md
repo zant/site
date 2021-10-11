@@ -1,5 +1,5 @@
 ---
-title: "Voluntad y Sentido"
+title: "Voluntad y sentido"
 date: 2021-08-04
 ---
 
