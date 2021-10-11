@@ -39,7 +39,9 @@ Nos encontramos constantemente re-apuntando a un objetivo que no deja de moverse
 
 La voluntad puede dejarnos atrapados en la cinta, o la bicicleta estatica. Formando musculos, tal vez, pero sin movernos mucho de donde estamos. Y como podriamos movernos si el objetivo continua ajustandose cuanto mas nos esforzamos?
 
-Entonces, esto significa que la voluntad no nos sirve de nada? Que el querer siempre deja al individuo infeliz en el estado previo a la adquisicion, e imcompleto, en el estado posterior donde encuentra un nuevo objetivo a ser alcanzado? Donde queda “la ambicion es el timon del movimiento”?
+Entonces, esto significa que la voluntad no nos sirve de nada? Que el querer siempre deja al individuo infeliz en el estado previo a la adquisicion, e imcompleto, en el estado posterior donde encuentra un nuevo objetivo a ser alcanzado? 
+
+Donde queda “la ambicion es el timon del movimiento”?
 
 Y es en este momento es donde de vuelta cabe mencionar un punto importante. 
 
