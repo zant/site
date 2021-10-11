@@ -21,7 +21,7 @@ Es entonces este el problema, asignar el peso del sentido a lo que creemos que s
 
 Porque, en que consiste esperar un mejor manana? Independientemente del objecto que se crea necesario para lograr un mayor estado de felicidad que el actual, el hecho de esperar implica un anhelo, una busqueda, un deseo de obtener. En sintesis, una voluntad de ser, tener, o adquirir.
 
-Esta voluntad, es completamente natural al hombre. Uno podria argumentar que es parte de los instintos naturales de pertenencia. El bebe ve, y quiere. Obtenemos el “sentido”, el camino en el cual queremos ver recorrer a nuestro yo presente en el futuro desde una recopelacion de experiencias, que vimos, y que posteriormente, queremos.
+Esta voluntad, es completamente natural al hombre. Uno podria argumentar que es parte de los instintos naturales de superviencia. El bebe ve, y quiere. Obtenemos el “sentido”, el camino en el cual queremos ver recorrer a nuestro yo presente en el futuro desde una recopelacion de experiencias, que vimos, y que posteriormente, queremos.
 
 Y este es el gran inconveniente. Que podemos desglozar en dos puntos principales:
 1. Creamos la ilusion del futuro “mejor” a partir de un presente incompleto, y un yo futuro desconocido
