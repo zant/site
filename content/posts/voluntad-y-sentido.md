@@ -24,18 +24,20 @@ Porque, en que consiste esperar un mejor manana? Independientemente del objecto 
 Esta voluntad, es completamente natural al hombre. Uno podria argumentar que es parte de los instintos naturales de superviencia. El bebe ve, y quiere. Obtenemos el “sentido”, el camino en el cual queremos ver recorrer a nuestro yo presente en el futuro desde una recopelacion de experiencias, que vimos, y que posteriormente, queremos.
 
 Y este es el gran inconveniente. Que podemos desglozar en dos puntos principales:
-1. Creamos la ilusion del futuro “mejor” a partir de un presente incompleto, y un yo futuro desconocido
+1. Creamos la ilusion del futuro “mejor” a partir de un presente incompleto, y de un yo futuro desconocido
 2. Al no conocer este yo futuro, tampoco podemos conocer que experiencias modificaran su voluntad
 
 Entonces, como podriamos dar la responsabilidad, y direccion de nuestra vida a una voluntad mutable, formada sin informacion suficiente, pero en la que esperamos poder finalmente ser felices? 
 
 Como podriamos asignar el peso de la felicidad y disfrute de nuestro tiempo en la tierra a un objetivo que esta fijado al final de una cinta estatica para correr?
 
-Como entonces, seriamos alguna vez felices, completos o como queramos llamarlo... si dependemos de alcanzar un algo, un algo que no es estatico, pero susceptible a nuestros propios cambios? Nos encontramos apuntando a un objetivo que no deja de moverse en direcciones completamente aleatorias.
+Como entonces, seriamos alguna vez felices, completos o como queramos llamarlo... si dependemos de alcanzar un algo, un algo que no es estatico, pero susceptible a nuestros propios cambios? 
+
+Nos encontramos constantemente re-apuntando a un objetivo que no deja de moverse en direcciones completamente aleatorias.
 
 > “La vida es un conjunto de muchos hoy”. [1]
 
-El anhelo puede dejarnos atrapados en la cinta, o la bicicleta estatica. Formando musculos, tal vez, pero sin movernos mucho de donde estamos. Y como podriamos movernos si el objetivo continua ajustandose cuanto mas nos esforzamos?
+La voluntad puede dejarnos atrapados en la cinta, o la bicicleta estatica. Formando musculos, tal vez, pero sin movernos mucho de donde estamos. Y como podriamos movernos si el objetivo continua ajustandose cuanto mas nos esforzamos?
 
 Entonces, esto significa que la voluntad no nos sirve de nada? Que el querer siempre deja al individuo infeliz en el estado previo a la adquisicion, e imcompleto, en el estado posterior donde encuentra un nuevo objetivo a ser alcanzado? Donde queda “la ambicion es el timon del movimiento”?
 
@@ -45,6 +47,6 @@ El problema no es la voluntad en si, si no asignar a esta voluntad la responsabi
 
 Queda entonces evidente que, ni buscar un sentido, ni la voluntad como cosas en si son inconvenientes. Sino la relacion dependiente entre ellas como base de una sobre la otra.
 
-Busquemos un sentido, y tengamos voluntad y deseo. Pero no los hagamos dependientes unos de otros.
+Busquemos un sentido, y tengamos voluntad, anhelos, deseos o como queramos llamarle. Pero no los hagamos dependientes unos de otros.
 
 [1]: https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
