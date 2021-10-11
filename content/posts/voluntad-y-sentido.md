@@ -49,6 +49,6 @@ El problema no es la voluntad en si, si no asignar a esta voluntad la responsabi
 
 Queda entonces evidente que, ni buscar un sentido, ni la voluntad como cosas en si son inconvenientes. Sino la relacion dependiente entre ellas como base de una sobre la otra.
 
-Busquemos un sentido, y tengamos voluntad, anhelos, deseos o como queramos llamarle. Pero no los hagamos dependientes unos de otros.
+Busquemos un sentido y tengamos voluntad, pero no los hagamos dependientes unos de otros.
 
 [1]: https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
