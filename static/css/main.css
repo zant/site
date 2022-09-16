@@ -301,3 +301,7 @@ footer#footer {
     color: #949494;
     margin: 40px 0;
 }
+
+img {
+    width: 80%;
+}
