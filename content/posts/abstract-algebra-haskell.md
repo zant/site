@@ -158,6 +158,6 @@ Group (monoid + inverse) - invert E <> E) = E
 Group (monoid + inverse) - E <> invert E) = E
 {{< / highlight >}}
 
-Great no? We have created our own small ADT for z_2, defined `Semigroup`, `Monoid` and `Group` typeclasses
-and instantiated our `z_2` ADT to make use of the methods within this typeclasses so we make it both
-explicitly and fun to experiment with our small little cyclic group.
+Great no? We have first created our own small ADT for z_2. Then, defined `Semigroup`, `Monoid` and `Group`
+typeclasses and instantiated our `z_2` ADT to make use of the methods within this typeclasses so we make it both
+explicitly and fun to experiment with our small little cyclic group.k
