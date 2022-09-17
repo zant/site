@@ -23,20 +23,13 @@ data Z2 =
     A deriving (Show)
 {{< / highlight >}}
 
-After that, we define a semigroup as we cannot start with a magma. This is because a magma is only (M, •) i.
-e. a set and a binary operation. However, in order to define a Haskell typeclass we need _some_ restriction
-in the constructor. 
+Now, our binary operation and the encoding of its multiplication table will be done by the `dot` function. 
+This would be a bit tricky to construct from zero if a larger group were used. I thought about encoding
+this without pattern matching every case but didn't find a way.
 
-Now, as Haskell is right associative already, we only need to specify that the typeclass needs a function
-of two arguments (binary operation) that returns a value of the same type (closure).
+Will like to explore [GAP](https://www.gap-system.org/) more to see how they do it.
 
-{{< highlight haskell >}}
-class Semigroup a where
-    (<>) :: a -> (a -> a)
-{{< / highlight >}}
-
-The encoding of the multiplication table will be done by the `dot` function. This was the tricky part
-to construct from zero.
+But anyways, this is our binary operation:
 
 {{< highlight haskell >}}
 dot :: Z2 -> Z2 -> Z2
@@ -46,9 +39,20 @@ dot E E = E
 dot A A = E
 {{< / highlight >}}
 
-We can see that it accurately reflects its multiplication table:
+And we can see that it accurately reflects its multiplication table:
 
 ![](/img/z2_table.png)
+
+After that, we can now define a semigroup. We do not start with a magma because that will only mean a set and a binary operation (M, •) with closure. However, in order to define a Haskell typeclass we need _some_ restriction in the constructor. 
+
+Now, as Haskell is right associative already, we only need to specify that the typeclass needs a function
+of two arguments (binary operation) that returns a value of the same type (closure).
+
+{{< highlight haskell >}}
+class Semigroup a where
+    (<>) :: a -> (a -> a)
+{{< / highlight >}}
+
 
 We can now finally instantiate our Semigroup class with Z2 and specifying the binary associative operation!
 In this case will be dot, which we previously defined to encode our times table.
