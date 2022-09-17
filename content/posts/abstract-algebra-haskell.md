@@ -25,9 +25,7 @@ data Z2 =
 
 Now, our binary operation and the encoding of its multiplication table will be done by the `dot` function. 
 This would be a bit tricky to construct from zero if a larger group were used. I thought about encoding
-this without pattern matching every case but didn't find a way.
-
-Will like to explore [GAP](https://www.gap-system.org/) more to see how they do it.
+this without pattern matching every case but didn't find a way. Will like to explore [GAP](https://www.gap-system.org/) more to see how they do it.
 
 But anyways, this is our binary operation:
 
