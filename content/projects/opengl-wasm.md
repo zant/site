@@ -1,5 +1,5 @@
 ---
 title: 'woxel'
-description: OpenGL targeting Native & WebAssembly
+description: OpenGL targeting Native & WebAssembly (C++)
 external: https://github.com/zant/woxel
 ---
