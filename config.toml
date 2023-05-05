@@ -1,11 +1,12 @@
 baseURL = "https://www.zantwi.ch"
 languageCode = "en-us"
-title = "zant's dump"
+title = "dump"
 theme = "etch"
 [params]
 mainSections = ['posts']
 secondarySections = ['projects']
 custom_css = ["css/main.css"]
+dark = "off"
 [markup]
   [markup.highlight]
     anchorLineNos = false
