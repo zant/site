@@ -145,7 +145,7 @@ main#content ul#posts small {
 main#content ul#posts li a {
     text-decoration: none;
     display: flex;
-    @media screen and (max-width: 375px) {
+    @media screen and (max-width: 400px) {
         flex-direction: column;
     }
     justify-content: space-between;
