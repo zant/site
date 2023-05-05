@@ -22,7 +22,7 @@ header#banner {
 }
 
 header#banner a {
-    color: #313a3d;
+    color: #000;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ header#banner nav ul li {
 }
 
 header#banner nav ul li a {
-    color: #454545;
+    color: #000;
 }
 
 main#content a {
@@ -103,7 +103,7 @@ main#content img {
 
 
 main#content p {
-    color: #394548;
+    color: #000;
     margin: 16px 0;
 }
 
