@@ -137,13 +137,17 @@ main#content ul#posts li p {
 main#content ul#posts small {
     font-size: 0.8em;
     color: #000;
-    margin-left: 10px;
-    font-size: 14px;
+    @media screen and (min-width: 375px) {
+        font-size: 14px;
+    }
 }
 
 main#content ul#posts li a {
     text-decoration: none;
     display: flex;
+    @media screen and (max-width: 375px) {
+        flex-direction: column;
+    }
     justify-content: space-between;
 }
 
