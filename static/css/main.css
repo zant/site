@@ -170,7 +170,8 @@ main#content header#post-header h1 {
 main#content header#post-header div {
     display: block;
     font-size: 0.85em;
-    color: #767676;
+    margin-top: 0.5em;
+    color: #000;
 }
 
 main#content #toc {
