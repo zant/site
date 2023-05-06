@@ -1,4 +1,4 @@
-baseURL = "https://www.zantwi.ch"
+baseURL = "https://dump.zantwi.ch"
 languageCode = "en-us"
 title = "dump"
 theme = "etch"
