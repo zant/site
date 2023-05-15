@@ -28,7 +28,7 @@ Furthermore, it also explores one section of the argument which does not explici
 
 This post intends to be a guide over the mathematical references of the essay, as so, I'll heavily quote sentences to start referencing the mathematical details. All quotes are from the last section of the chapter "Hume's Problem".
 
-**Disclaimer:** This post does not intend to be an exhaustive or even correct interpretation of the essay. I'm not a professional mathematician and please check all citations and resources linked.
+_This post does not intend to be an exhaustive or even correct interpretation of the essa, please check all citations and resources linked._
 
 ## Après la finitude
 
