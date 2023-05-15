@@ -1,7 +1,7 @@
 ---
 title: "Abstract Algebra from scratch in Haskell"
 date: 2022-09-17T00:49:56+02:00
-draft: false
+draft: true
 ---
 
 While learning Haskell is impossible not to notice the use of mathy objects like `Monoids` and `Semigroups` within `GHC.Base`. Then you get to learn that surprisingly, lists (`[]`) are `Monoids`! And then you start having curiosity about, what about really mathy objects, and how can they be represented via typeclasses and Haskell?
