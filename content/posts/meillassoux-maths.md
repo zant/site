@@ -32,7 +32,7 @@ _The interpretations and analyses presented in this paper are entirely my own an
 
 ## Après la finitude
 
-_After Finitude: An Essay on the Necessity of Contingency_ is the name of the essay made by Quentin Meillassoux. The central subject of the essay is _the absolute_ and the relationship of philosophers with it.
+_After Finitude: An Essay on the Necessity of Contingency_ is the name of the essay made by Quentin Meillassoux. The central subject of the essay is _the absolute_, the historical development of this concept, highlighting the objective-metaphysical tension and offering a few ways out of this tension.
 
 What's remarkable about this essay in particular, and what settles the topic of this post is that Meillassoux not only relies on logical arguments and syllogisms via natural language, but it also references and build on top of mathematical theories and theorem to support his argument and logical deductions, reminiscent of Badiou's Being and Event.
 
