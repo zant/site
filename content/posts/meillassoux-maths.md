@@ -34,9 +34,7 @@ This post intends to be a guide over the mathematical references of the essay, a
 
 _After Finitude: An Essay on the Necessity of Contingency_ is the name of the essay made by Quentin Meillassoux. The central subject of the essay is _the absolute_ and the relationship of philosophers with it.
 
-As a rookie in Philosophy and this being one my first formal treatment, all I can say is that is a really interesting piece consisting of many moving parts, deep arguments and a good chunk of history of philosophy.
-
-What's remarkable about this essay in particular, and what settles the topic of this post is that Meillassoux not only relies on logical arguments and syllogisms via natural language, but it also references and build on top of mathematical theories and theorem to support his argument and logical deductions.
+What's remarkable about this essay in particular, and what settles the topic of this post is that Meillassoux not only relies on logical arguments and syllogisms via natural language, but it also references and build on top of mathematical theories and theorem to support his argument and logical deductions, reminiscent of Badiou's Being and Event.
 
 ## Set Theory
 
