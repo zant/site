@@ -11,7 +11,7 @@ All of this, after the open letter “Pause Giant AI Experiments: An Open Letter
 
 Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [5], have come to terms with the fact that “There Is No AI Revolution” [6].
 
-AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering or by despair to doom), are engaged in its application for war, plain and brute, if this 'warfighting' cain be contained for defense-only, will respond to they very real needs of defense as an act of recognition towards peace, violence is (symbolically) inscribed in peace. Revolution without violence. 
+AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute, if this 'warfighting' cain be contained for defense-only, will respond to they very real needs of defense as an act of recognition towards peace, violence is (symbolically) inscribed in peace. Revolution without violence. 
 
 This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
 
