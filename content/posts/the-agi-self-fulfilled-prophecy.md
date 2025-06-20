@@ -31,6 +31,10 @@ As Hegel sees, conflict is a necessary and rational force for the betterment of 
 
 > Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
 
+This comes close to what Žižek, recently wrote regarding Abdullah Ocalan [7]:
+
+> So what about the reproach that the PKK nonetheless began as an agent of violent struggle? The PKK just followed here the general rule of resistance: if one is to be taken seriously, one has to begin with the threat of violent resistance. When a peaceful negotiation wins over armed resistance, armed resistance is inscribed in the result.
+
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
 [2]: Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI ([https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/](https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/))
@@ -43,3 +47,4 @@ As Hegel sees, conflict is a necessary and rational force for the betterment of 
 
 [6]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
 
+[7]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
