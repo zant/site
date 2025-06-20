@@ -13,6 +13,8 @@ Besides all of this, various voices from the technology sector and even the mark
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
 
+This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
+
 There's a possibility though, which is that this 'warfighting' can be contained for and modeled towards peace. Violence is (symbolically) inscribed in peace. Per Hegel aided by Gemini:
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
@@ -21,7 +23,6 @@ Not to be confused with the "peace" managed by capitalism:
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
 
-This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
 
 As existential risk has commonly been a cause for actual material existential violence within our social-relations. As in Adorno's terms, taken from Gemini:
 
