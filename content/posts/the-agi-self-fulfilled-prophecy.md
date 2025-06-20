@@ -7,9 +7,9 @@ We’ve listened too many times how problematic AI is, and how urgent the need f
 
 OpenAI, at the beginning of this year, has secured funding for $500 million, with a promise of expanding its operations and employing thousands in american soil [1]. This, after many members have left OpenAI because “...AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI”[2]. And recently over the last week, news have been announced that “OpenAI wins $200m contract with US military for ‘warfighting’”. [3][4].
 
-All of this, after the open letter “Pause Giant AI Experiments: An Open Letter” signed by the types of Yoshua Bengio, Yuval Noah Harari and Elon Musk. Which was supposed to serve as a warning. This letter is not signed by OpenAI’s head Sam Altman, former president of YGroup, which included YCombinator) and co-founder of OpenAI with Elon Musk, Jessica Livingston, and Peter Thiel.
+All of this, after the open letter “Pause Giant AI Experiments: An Open Letter” signed by the types of Yoshua Bengio, Yuval Noah Harari and Elon Musk. Which was supposed to serve as a warning. This letter is not signed by OpenAI’s head Sam Altman, former president of YGroup, which included YCombinator, and co-founder of OpenAI with Elon Musk, Jessica Livingston, and Peter Thiel.
 
-Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [5] have come to terms with the fact that “There Is No AI Revolution” [6].
+Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [5], have come to terms with the fact that “There Is No AI Revolution” [6].
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology, are engaged in its application for war. And isn’t war the actual historically true human-caused catastrophe and which killed the most?
 
