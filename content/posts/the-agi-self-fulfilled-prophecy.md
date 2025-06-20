@@ -13,7 +13,7 @@ Besides all of this, various voices from the technology sector and even the mark
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
 
-This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
+This is exactly why we must do everything to stop any acts that can endanger our collective living on planet earth. War is the actual historically true human-caused catastrophe.
 
 There's a possibility though, which is that this 'warfighting' can be contained for and modeled towards peace. Violence is (symbolically) inscribed in peace. Per Hegel aided by Gemini:
 
