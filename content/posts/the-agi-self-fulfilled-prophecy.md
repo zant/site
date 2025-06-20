@@ -15,7 +15,7 @@ AGI is nowhere to be seen. However the prophecy of a technological tool turning 
 
 This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
 
-Existential risk has commonly been an excuse for actual material existential violence. As in Adorno's terms, taken from Gemini:
+Existential risk has commonly been a cause for actual material existential violence within social-relations. As in Adorno's terms, taken from Gemini:
 
 > For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
