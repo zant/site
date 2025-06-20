@@ -15,9 +15,9 @@ AGI is nowhere to be seen. However the prophecy of a technological tool turning 
 
 This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
 
-Existential risk has commonly been an excuse for actual material existential destruction. As in Adorno's terms, taken from Gemini:
+Existential risk has commonly been an excuse for actual material existential violence. As in Adorno's terms, taken from Gemini:
 
-> From this Adornian standpoint, identity politics can be seen as a complex and often contradictory response to this existential threat. On one hand, the assertion of a particular identity—be it based on race, gender, sexuality, or disability—can be understood as a form of resistance against the homogenizing force of the administered society. It is a declaration of the "non-identical," a refusal to be dissolved into the abstract, universal category of "the citizen" or "the consumer."
+> For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
