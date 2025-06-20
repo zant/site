@@ -16,7 +16,8 @@
 	{{- end }}
 
 	{{ $resources = $resources | append (resources.Get "css/min770px.css") -}}
-default "auto" -}}
+
+	{{ $dark := .Site.Params.dark | default "auto" -}}
 	{{ if not (eq $dark "off") -}}
 			{{ $resources = $resources | append (resources.Get "css/dark.css" | resources.ExecuteAsTemplate "dark.css" .) -}}
 	{{ end -}}
