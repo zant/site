@@ -15,7 +15,7 @@ AGI is nowhere to be seen. However the prophecy of a technological tool turning 
 
 This is exactly why we must do everything to stop any acts that can endanger our collective living on planet earth. War is the actual historically true human-caused catastrophe.
 
-There's a possibility though, which is that this 'warfighting' must be contained for and modeled towards peace. Violence is (symbolically) inscribed in peace. Per Hegel aided by Gemini:
+There's a possibility though, which is that this 'warfighting' must be contained for and modeled towards peace. Violence can be (symbolically) inscribed in peace. Per Hegel aided by Gemini:
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
