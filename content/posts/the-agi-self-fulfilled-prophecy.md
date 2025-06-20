@@ -19,7 +19,7 @@ There's a possibility though, which is that this 'warfighting' can be contained 
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
-I woulnd't go so far to argue that war as an open definition is positive. In any case, a war could be fought without violence. In the sense in which there's conflict (and symbolical aspects of war) and eventual movement towards resolution (peace). Here we need to be careful not to be confuse it with the "peace" managed by capitalism:
+I woulnd't go so far to argue that war as an open definition is positive. In any case, a war could be fought without violence. In the sense in which there's conflict (represented by the symbolical aspects of war) and eventual movement towards resolution (peace). Here we need to be careful not to be confuse it with the "peace" managed by capitalism:
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
 
