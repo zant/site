@@ -11,9 +11,13 @@ All of this, after the open letter “Pause Giant AI Experiments: An Open Letter
 
 Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [5], have come to terms with the fact that “There Is No AI Revolution” [6].
 
-AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering or by despair to doom), are engaged in its application for war, plain and brute, if this 'warfighting' cain be contained for defense-only, will respond to they very real needs of defense as an act of recognition towards peace, violence is (symbolically) inscribed in peace. Revolution without violence. And this is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe and which killed the most?
+AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering or by despair to doom), are engaged in its application for war, plain and brute, if this 'warfighting' cain be contained for defense-only, will respond to they very real needs of defense as an act of recognition towards peace, violence is (symbolically) inscribed in peace. Revolution without violence. 
 
-Existential risk has always been the excuse for actual material existential destruction.
+This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
+
+Existential risk has commonly been an excuse for actual material existential destruction. As in Adorno's terms, taken from Gemini:
+
+> From this Adornian standpoint, identity politics can be seen as a complex and often contradictory response to this existential threat. On one hand, the assertion of a particular identity—be it based on race, gender, sexuality, or disability—can be understood as a form of resistance against the homogenizing force of the administered society. It is a declaration of the "non-identical," a refusal to be dissolved into the abstract, universal category of "the citizen" or "the consumer."
 
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
