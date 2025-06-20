@@ -19,20 +19,17 @@ There's a possibility though, which is that this 'warfighting' can be contained 
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
-Not to be confused with the "peace" managed by capitalism:
+I woulnd't go so far to argue that war as an open definition is positive. In any case, a war could be fought without violence. In the sense in which there's conflict (and symbolical aspects of war) and eventual movement towards resolution (peace). Here we need to be careful not to be confuse it with the "peace" managed by capitalism:
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
 
-
-As existential risk has commonly been a cause for actual material existential violence within our social-relations. As in Adorno's terms, taken from Gemini:
+However, conflict outside managed "peace", i.e. real emancipatory struggle, works towards an actuality that can overcome the actuality of capitalism, as in actualizing us (the people) without deactualizing us (the people) in the form of labour exploitation. Adorno mentions that actual existential risk, be it in the form of AGI, religious fundamentalism, or climate change has commonly been a cause for actual material existential violence within our social-relations. As in Adorno's terms, taken from Gemini:
 
 > For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
-As Hegel sees, conflict is a necessary and rational force, for the betterment of an ethical order. It's necessary, however, to model this violence towards it being inscribed in peace. This could be done in a negative-dialectical movement as in Adorno:
+As Hegel sees, conflict is a necessary and rational force for the betterment of an ethical order. It's necessary, however, to model this violence towards it being inscribed in peace. Adorno's negative dialectics offer a movement towards remaining open to this very possibility of conflict.
 
 > Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
-
-In which we can frame that it could be a question of identity and our own self-organization, which is supposed to work towards movement.
 
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
