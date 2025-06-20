@@ -31,7 +31,7 @@ As Hegel sees, conflict is a necessary and rational force for the betterment of 
 
 > So what about the reproach that the PKK nonetheless began as an agent of violent struggle? The PKK just followed here the general rule of resistance: if one is to be taken seriously, one has to begin with the threat of violent resistance. When a peaceful negotiation wins over armed resistance, armed resistance is inscribed in the result.
 
-Adorno's negative dialectics offer a movement towards remaining open to this very possibility of conflict, as the process of becoming, via self-determination, self-abolition, and their interplay.
+Adorno's negative dialectics offers a movement towards remaining open to this very possibility of conflict, as the process of becoming, via self-determination, self-abolition, and their interplay.
 
 > Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
 
