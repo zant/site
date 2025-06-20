@@ -15,9 +15,15 @@ AGI is nowhere to be seen. However the prophecy of a technological tool turning 
 
 Existential risk has always been the excuse for actual material existential destruction.
 
-[1]: Announcing The Stargate Project (https://openai.com/index/announcing-the-stargate-project/)
-[2]: Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/
-[3]: OpenAI wins $200m contract with US military for ‘warfighting’ (https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting)
-[4]: Sam Altman Gets Into Bed With The Pentagon (https://www.youtube.com/watch?v=mq23JxeTKzc)
-[5]: The AI-fueled stock market bubble will crash in 2026, research firm says (https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4)
-[6]: There Is No AI Revolution (https://www.wheresyoured.at/wheres-the-money/)
+[1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
+
+[2]: Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI ([https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/](https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/))
+
+[3]: OpenAI wins $200m contract with US military for ‘warfighting’ ([https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting](https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting))
+
+[4]: Sam Altman Gets Into Bed With The Pentagon ([https://www.youtube.com/watch?v=mq23JxeTKzc](https://www.youtube.com/watch?v=mq23JxeTKzc))
+
+[5]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
+
+[6]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+
