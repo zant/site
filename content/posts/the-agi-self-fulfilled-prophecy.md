@@ -11,7 +11,11 @@ All of this, after the open letter “Pause Giant AI Experiments: An Open Letter
 
 Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [5], have come to terms with the fact that “There Is No AI Revolution” [6].
 
-AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute, if this 'warfighting' cain be contained for defense-only, will respond to they very real needs of defense as an act of recognition towards peace, violence is (symbolically) inscribed in peace. Revolution without violence. 
+AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
+
+There's a possibility though, which is that this 'warfighting' can be contained for and modeled towards peace. Violence is (symbolically) inscribed in peace. Per Hegel aided by Gemini:
+
+> He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
 This is exactly why we must do everything to stop any acts that can endanger our collective living in planet earth. War is the actual historically true human-caused catastrophe.
 
