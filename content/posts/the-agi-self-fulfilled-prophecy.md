@@ -29,7 +29,7 @@ Here we need to be careful not to be confuse it with the "peace" managed by capi
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
 
-Adorno mentions that perceived existential threat, be it in the form of AGI, religious fundamentalism, or climate change has commonly been a cause for actual materially existent violence within our social-relations. As in Adorno's terms, taken from Gemini:
+Moreover, Adorno mentions that perceived existential threat, be it in the form of AGI, religious fundamentalism, or climate change has commonly been a cause for actual materially existent violence within our social-relations. As in Adorno's terms, taken from Gemini:
 
 > For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
