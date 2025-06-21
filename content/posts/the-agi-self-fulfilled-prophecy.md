@@ -23,7 +23,7 @@ This 'warfighting' must be contained for and modeled towards peace. Violence can
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
-I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought against without violence. In the sense in which there's conflict (represented by the symbolical and material social-relations of war) and eventual movement towards peaceful resolution. 
+I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought against without violence. In the sense in which there's conflict (presented by the symbolical and material social-relations of war) and eventual movement towards peaceful resolution. 
 
 Here we need to be careful not to confuse it with the "peace" managed by capitalism, in marxist terms:
 
