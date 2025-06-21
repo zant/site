@@ -23,15 +23,15 @@ This 'warfighting' must be contained for and modeled towards peace. Violence can
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
-Adorno mentions that perceived existential threat, be it in the form of AGI, religious fundamentalism, or climate change has commonly been a cause for actual materially existent violence within our social-relations. As in Adorno's terms, taken from Gemini:
-
-> For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
-
-I woulnd't go so far to argue that war as an open definition is positive, as in Hegel. However, a war could be fought without violence. In the sense in which there's conflict (represented by the symbolical aspects of war) and eventual movement towards peaceful resolution. 
+I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought without violence. In the sense in which there's conflict (represented by the symbolical aspects of war) and eventual movement towards peaceful resolution. 
 
 Here we need to be careful not to be confuse it with the "peace" managed by capitalism:
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
+
+Adorno mentions that perceived existential threat, be it in the form of AGI, religious fundamentalism, or climate change has commonly been a cause for actual materially existent violence within our social-relations. As in Adorno's terms, taken from Gemini:
+
+> For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
 However, conflict that points beyond managed "peace", i.e. real emancipatory struggle, works towards an actuality that can overcome the actuality of capitalism, as in actualizing us (the people) without deactualizing us (the people) in the form of labour exploitation. Adorno's negative dialectics offers a movement towards remaining open to this very possibility of conflict, as the process of becoming, through self-determination, self-abolition, and their interplay.
 
@@ -41,7 +41,7 @@ As Hegel sees, conflict is a necessary and rational force for the betterment of 
 
 > So what about the reproach that the PKK nonetheless began as an agent of violent struggle? The PKK just followed here the general rule of resistance: if one is to be taken seriously, one has to begin with the threat of violent resistance. When a peaceful negotiation wins over armed resistance, armed resistance is inscribed in the result.
 
-This is why we must stand behind projects such as the BDS, the Palestinian-led Boycott, Divestment & Sanctions movement. As stated in their open call for support, in September 2023 [12]:
+This is exactly why we must stand behind projects such as the BDS, the Palestinian-led Boycott, Divestment & Sanctions movement. As stated in their open call for support, in September 2023 [12]:
 
 > We are a group of philosophy professors in North America, Latin America, and Europe writing to publicly and unequivocally express our solidarity with the Palestinian people and to denounce the ongoing and rapidly escalating massacre being committed in Gaza by Israel and with the full financial, material, and ideological support of our own governments.
 
