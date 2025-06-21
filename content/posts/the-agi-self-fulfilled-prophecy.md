@@ -25,7 +25,7 @@ This 'warfighting' must be contained for and modeled towards peace. Violence can
 
 I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought against without violence. In the sense in which there's conflict (represented by the symbolical and material social-relations of war) and eventual movement towards peaceful resolution. 
 
-Here we need to be careful not to be confuse it with the "peace" managed by capitalism, in marxist terms:
+Here we need to be careful not to confuse it with the "peace" managed by capitalism, in marxist terms:
 
 > For Marx, the "peace" of a capitalist society is a fiction that masks a brutal class war. The state is not a neutral arbiter but an instrument of class domination—an "executive committee for managing the common affairs of the whole bourgeoisie." The laws of property, contract, and employment are forms of institutionalized violence that allow for the systematic exploitation of the proletariat by the bourgeoisie. Therefore, the peaceful, everyday functioning of the capitalist state is, for Marx, the quiet enactment of class violence.
 
