@@ -9,7 +9,11 @@ OpenAI, at the beginning of this year, has secured funding for $500 million, wit
 
 All of this, after the open letter “Pause Giant AI Experiments: An Open Letter” signed by the types of Yoshua Bengio, Yuval Noah Harari and Elon Musk [5]. Which was supposed to serve as a warning. This letter is not signed by OpenAI’s head Sam Altman, former president of YGroup, which included YCombinator, and co-founder of OpenAI with Elon Musk, Jessica Livingston, and Peter Thiel.
 
-Besides all of this, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [6], have come to terms with the fact that “There Is No AI Revolution” [7].
+Peter Thiel being the founder of Palantir Technologies, which has been involved in multiple controversies regarding its involvement with governmental institutions [6]. The controversies became even more visible when "Palantir grabbed Project Maven defense contract after Google left the program: sources" [7].
+
+> Critics of the project [6] warned that the technology could one day be used by the military to build autonomous weapons that decide who and what to strike without human input.
+
+What is more, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [6], have come to terms with the fact that “There Is No AI Revolution” [8].
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
 
@@ -27,7 +31,7 @@ However, conflict outside managed "peace", i.e. real emancipatory struggle, work
 
 > For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
-As Hegel sees, conflict is a necessary and rational force for the betterment of an ethical order. It's necessary, however, to model this (representation of) violence towards it being (symbolically) inscribed in peaceful resolution. This comes close to what Žižek, recently wrote regarding the PKK and Abdullah Ocalan [8]:
+As Hegel sees, conflict is a necessary and rational force for the betterment of an ethical order. It's necessary, however, to model this (representation of) violence towards it being (symbolically) inscribed in peaceful resolution. This comes close to what Žižek, recently wrote regarding the PKK and Abdullah Ocalan [9]:
 
 > So what about the reproach that the PKK nonetheless began as an agent of violent struggle? The PKK just followed here the general rule of resistance: if one is to be taken seriously, one has to begin with the threat of violent resistance. When a peaceful negotiation wins over armed resistance, armed resistance is inscribed in the result.
 
@@ -47,6 +51,10 @@ Adorno's negative dialectics offers a movement towards remaining open to this ve
 
 [5]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
 
-[6]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+[6]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
 
-[7]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
+[7]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+
+[8]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
+
+[9]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
