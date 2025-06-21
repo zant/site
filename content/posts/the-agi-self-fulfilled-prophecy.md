@@ -39,6 +39,21 @@ Adorno's negative dialectics offers a movement towards remaining open to this ve
 
 > Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
 
+This is why we must stand behind projects such as the BDS, the Palestinian-led Boycott, Divestment & Sanctions movement. As stated in their open call for support, in September 2023 [12]:
+
+> We are a group of philosophy professors in North America, Latin America, and Europe writing to publicly and unequivocally express our solidarity with the Palestinian people and to denounce the ongoing and rapidly escalating massacre being committed in Gaza by Israel and with the full financial, material, and ideological support of our own governments.
+
+> As we write, bombs have killed over 8,500 people in Gaza. By the time you read this, that number will have risen. Thousands more are trapped under rubble. For over three weeks, a siege of the territory has cut off food, water, medicine, fuel, and electricity. A million inhabitants of northern Gaza have been ordered to flee their homes amid airstrikes and in advance of an ongoing ground invasion with nowhere safe to go. Talk of a second nakba is chilling yet apt. People of conscience have an obligation to speak out against these atrocities. This is not a difficult step to take; what is far more difficult for us is to turn away in silence and complicity from an unfolding genocide.
+
+> We urge all individuals to speak out openly and fearlessly, and work to advance the cause of Palestinian liberation and justice for all.
+
+And collectively work until specific demands are met, per BDS Call [13]:
+
+> These non-violent punitive measures should be maintained until Israel meets its obligation to recognize the Palestinian people's inalienable right to self-determination and fully complies with the precepts of international law by:
+1. Ending its occupation and colonization of all Arab lands and dismantling the Wall
+2. Recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and
+3. Respecting, protecting, and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194.
+
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
 [2]: Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI ([https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/](https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/))
@@ -62,3 +77,7 @@ Adorno's negative dialectics offers a movement towards remaining open to this ve
 [10]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
 
 [11]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
+
+[12]: Philosophy for Palestine: 400 Philosophers Call to Support the Boycott of Complicit Israeli Academic Institutions ([https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic](https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic))
+
+[13]: BDS Call ([https://bdsmovement.net/bds-call](https://bdsmovement.net/bds-call))
