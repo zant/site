@@ -47,7 +47,7 @@ This is why we must stand behind projects such as the BDS, the Palestinian-led B
 
 > We urge all individuals to speak out openly and fearlessly, and work to advance the cause of Palestinian liberation and justice for all.
 
-And collectively work until specific demands are met, per BDS Call [13]:
+And collectively work until specific demands are met, per the BDS Call [13]:
 
 > We, representatives of Palestinian civil society, call upon international civil society organizations and people of conscience all over the world to impose broad boycotts and implement divestment initiatives against Israel similar to those applied to South Africa in the apartheid era. We appeal to you to pressure your respective states to impose embargoes and sanctions against Israel. We also invite conscientious Israelis to support this Call, for the sake of justice and genuine peace.
 
