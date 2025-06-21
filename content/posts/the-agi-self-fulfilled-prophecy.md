@@ -53,12 +53,12 @@ Adorno's negative dialectics offers a movement towards remaining open to this ve
 
 [6]: Palantir Provides the Engine for Donald Trump’s Deportation Machine ([https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/))
 
-[6]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
+[7]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
 
-[7]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
+[8]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
 
-[8]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+[9]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
 
-[9]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
+[10]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
 
-[10]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
+[11]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
