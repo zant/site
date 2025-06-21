@@ -7,13 +7,13 @@ We’ve listened too many times how problematic AI is, and how urgent the need f
 
 OpenAI, at the beginning of this year, has secured funding for $500 million, with a promise of expanding its operations and employing thousands in american soil [1]. With this happening at the same time as many OpenAI researchers have quit because “...AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI”[2]. And recently over the last week, news have been announced that “OpenAI wins $200m contract with US military for ‘warfighting’”. [3][4].
 
-All of this, after the open letter “Pause Giant AI Experiments: An Open Letter” signed by the types of Yoshua Bengio, Yuval Noah Harari and Elon Musk [5]. Which was supposed to serve as a warning. This letter is not signed by OpenAI’s head Sam Altman, former president of YGroup, which included YCombinator, and co-founder of OpenAI with Elon Musk, who apparently is going through a breakup with Donald Trump [5], Jessica Livingston, cofounder of YCombinator together with Paul Graham, and Peter Thiel.
+All of this, after the open letter “Pause Giant AI Experiments: An Open Letter” signed by the types of Yoshua Bengio, Yuval Noah Harari and Elon Musk [5]. Which was supposed to serve as a warning. This letter is not signed by OpenAI’s head Sam Altman, former president of YGroup, which included YCombinator, and co-founder of OpenAI with Elon Musk, who apparently is going through a breakup with Donald Trump [6], Jessica Livingston, cofounder of YCombinator together with Paul Graham, and Peter Thiel.
 
-Peter Thiel being the founder of Palantir Technologies, which has been involved in multiple controversies regarding its involvement with governmental institutions [6]. The controversies became even more visible when "Palantir grabbed Project Maven defense contract after Google left the program: sources" [7].
+Peter Thiel being the founder of Palantir Technologies, which has been involved in multiple controversies regarding its involvement with governmental institutions [7]. The controversies became even more visible when "Palantir grabbed Project Maven defense contract after Google left the program: sources" [8].
 
-> Critics of the project [6] warned that the technology could one day be used by the military to build autonomous weapons that decide who and what to strike without human input.
+> Critics of the project [9] warned that the technology could one day be used by the military to build autonomous weapons that decide who and what to strike without human input.
 
-What's more, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [7], have come to terms with the fact that “There Is No AI Revolution” [8].
+What's more, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [10], have come to terms with the fact that “There Is No AI Revolution” [11].
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
 
@@ -66,22 +66,23 @@ And collectively work until specific demands are met, per the BDS Call [13]:
 
 [4]: Sam Altman Gets Into Bed With The Pentagon ([https://www.youtube.com/watch?v=mq23JxeTKzc](https://www.youtube.com/watch?v=mq23JxeTKzc))
 
-[5]: ‘He’s a snake’: Musk jabs at Trump adviser who fueled messy presidential breakup ([https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246](https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246))
 
 [5]: Pause Giant AI Experiments: An Open Letter: ([https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/))
 
-[6]: Palantir Provides the Engine for Donald Trump’s Deportation Machine ([https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/))
+[6]: ‘He’s a snake’: Musk jabs at Trump adviser who fueled messy presidential breakup ([https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246](https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246))
 
-[7]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
+[7]: Palantir Provides the Engine for Donald Trump’s Deportation Machine ([https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/))
 
-[8]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
+[8]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
 
-[9]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+[9]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
 
-[10]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
+[10]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
 
-[11]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
+[11]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
 
-[12]: Philosophy for Palestine: 400 Philosophers Call to Support the Boycott of Complicit Israeli Academic Institutions ([https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic](https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic))
+[12]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
 
-[13]: BDS Call ([https://bdsmovement.net/bds-call](https://bdsmovement.net/bds-call))
+[13]: Philosophy for Palestine: 400 Philosophers Call to Support the Boycott of Complicit Israeli Academic Institutions ([https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic](https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic))
+
+[14]: BDS Call ([https://bdsmovement.net/bds-call](https://bdsmovement.net/bds-call))
