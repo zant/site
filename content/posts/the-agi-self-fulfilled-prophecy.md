@@ -31,13 +31,13 @@ However, conflict that points beyond managed "peace", i.e. real emancipatory str
 
 > For Adorno, a perceived existential threat triggers a flight from freedom and a desperate embrace of domination, manifesting in three interconnected phenomena: the rise of the authoritarian personality, the hypnotic palliative of the culture industry, and the violent logic of identity thinking.
 
+Then, Adorno's negative dialectics offers a movement towards remaining open to this very possibility of conflict, as the process of becoming, through self-determination, self-abolition, and their interplay.
+
+> Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
+
 As Hegel sees, conflict is a necessary and rational force for the betterment of an ethical order. It's necessary, however, to model this (representation of) violence towards it being (symbolically) inscribed in peaceful resolution. This comes close to what Žižek, recently wrote regarding the PKK and Abdullah Ocalan [9]:
 
 > So what about the reproach that the PKK nonetheless began as an agent of violent struggle? The PKK just followed here the general rule of resistance: if one is to be taken seriously, one has to begin with the threat of violent resistance. When a peaceful negotiation wins over armed resistance, armed resistance is inscribed in the result.
-
-Adorno's negative dialectics offers a movement towards remaining open to this very possibility of conflict, as the process of becoming, through self-determination, self-abolition, and their interplay.
-
-> Negative dialectics is a mode of thought that constantly resists the temptation to arrive at a final, positive synthesis. It is a thinking that remains focused on the "non-identical," on what is left over, excluded, and forgotten by our concepts. A politics informed by negative dialectics would be one that constantly questions and critiques its own categories, that remains open to the particularity of individual experience, and that refuses to find solace in the easy answers of a fixed identity.
 
 This is why we must stand behind projects such as the BDS, the Palestinian-led Boycott, Divestment & Sanctions movement. As stated in their open call for support, in September 2023 [12]:
 
