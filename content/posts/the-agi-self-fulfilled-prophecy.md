@@ -13,7 +13,7 @@ Peter Thiel being the founder of Palantir Technologies, which has been involved 
 
 > Critics of the project [6] warned that the technology could one day be used by the military to build autonomous weapons that decide who and what to strike without human input.
 
-What is more, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [7], have come to terms with the fact that “There Is No AI Revolution” [8].
+What's more, various voices from the technology sector and even the markets, qualifying the AI sector as a “market bubble” [7], have come to terms with the fact that “There Is No AI Revolution” [8].
 
 AGI is nowhere to be seen. However the prophecy of a technological tool turning against humanity can very well be seen, in its turning into a technology for ‘warfighting’. The same people arguing against the dangers of AI technology via the prophecy of the AGI (either by conquering it or by despair to doom), are engaged in its application for war, plain and brute.
 
