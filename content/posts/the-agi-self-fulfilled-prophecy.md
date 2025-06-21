@@ -52,9 +52,9 @@ And collectively work until specific demands are met, per BDS Call [13]:
 > We, representatives of Palestinian civil society, call upon international civil society organizations and people of conscience all over the world to impose broad boycotts and implement divestment initiatives against Israel similar to those applied to South Africa in the apartheid era. We appeal to you to pressure your respective states to impose embargoes and sanctions against Israel. We also invite conscientious Israelis to support this Call, for the sake of justice and genuine peace.
 
 > These non-violent punitive measures should be maintained until Israel meets its obligation to recognize the Palestinian people's inalienable right to self-determination and fully complies with the precepts of international law by:
-1. Ending its occupation and colonization of all Arab lands and dismantling the Wall
-2. Recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and
-3. Respecting, protecting, and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194.
+> 1. Ending its occupation and colonization of all Arab lands and dismantling the Wall
+> 2. Recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and
+> 3. Respecting, protecting, and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194.
 
 [1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
 
