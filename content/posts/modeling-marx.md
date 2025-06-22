@@ -56,13 +56,26 @@ So now we can better define our locally cartesian closed category:
 >
 > In particular, such pullbacks preserve all colimits. Therefore, if a locally cartesian closed category has finite colimits, it is automatically a coherent category, and in fact a Heyting category.
 
-And now with a little help of topos theory and Grothendieck:
+And now with a little help of topos theory,
 
-> The “fundamental theorem” of topos theory, in the terminology of McLarty 1992, asserts that for any topos 𝒯 and x ∈ 𝒯 any object, also the slice category 𝒯/x is a topos: the slice topos.
+> The “fundamental theorem” of topos theory, in the terminology of McLarty 1992, asserts that for any topos 𝒯 and x ∈ 𝒯 any object, also the slice category 𝒯/x is a topos: the slice topos. [4]
 
-Hence, we have the concept of Universes in HoTT, where Universes are objects X ∈ 𝒯, and 𝒯 a topos in the slice category 𝒯/X.
+We have the following:
 
-Given all of the above, and given that this is more or less what cubical Agda is, let's imagine for a second that:
+> With all of these axioms included, homotopy type theory behaves like the internal language of an (∞,1)-topos, and conjecturally should admit actual models in any (∞,1)-topos. [5]
+
+So we now model Universes as if they were toposes in a (∞,1)-topos, which has nice properties:
+
+                  Paths(x, y) -------->   1
+                   |                  | (x,y)
+                   | (pullback)       |
+                   ↓                  ↓
+                   A ---------------> A × A
+                         δ (diagonal)
+
+So now we can _conjecturally_[5] say that using Cubical Agda, we're treating with a (∞,1)-topos wich is a Cubical Type Theory:
+
+> The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
 ```
 
@@ -90,6 +103,12 @@ The nice thing is that if we use a cubical system for example, to model this dep
 [2]: [Dependent type theory and locally cartesian closed categories](https://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory#DependentTypeTheory)
 
 [3]: [Introduction to Univalent Foundations of Mathematics with Agda](https://martinescardo.github.io/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#universes)
+
+[4]: [homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory#models_in_categories_and_toposes)
+
+[5]: [Quillen model structure](https://groups.google.com/g/homotopytypetheory/c/RQkLWZ_83kQ/m/s6iazlFdBgAJ)
+
+[6]: [cubical type theory](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos#cubical_type_theory)
 
 Proposed literature:
 
