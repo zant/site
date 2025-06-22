@@ -100,11 +100,14 @@ variable
 tensor product that takes (ξ x Ψ to 𝓤)
 φ : Type 𝓤 := ξ × Ψ
 
--- Superstructure ρ (social and political life), dependent type family 𝓥 indexed by 𝓤
+-- Superstructure ρ (social and political life)
+-- dependent type family 𝓥 indexed by 𝓤
 p : Type 𝓤 → Type 𝓥
-ρ (σ : Type 𝓤) → ρ(σ) -- so different superstructures (e.g. socialist,
-communist, capitalist) could be indexed by different modes of production?
-with relations of production Ψ that are not based on class structures?
+ρ (σ : Type 𝓤) → ρ(σ)
+
+-- so different superstructures (e.g. socialist,
+-- communist, capitalist) could be indexed by different modes of production?
+-- with relations of production Ψ that are not based on class structures?
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with cubical we get this equivalence as a path in a space for free.
