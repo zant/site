@@ -7,7 +7,7 @@ This is an open WIP.
 
 **Abstract**
 
-I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory to model historical materialism:
+I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory[0] to model historical materialism:
 
 > Marx argued that the economic base of a society—the "mode of production," which includes the forces of production (technology, labor) and the relations of production (class structures)—conditions the legal, political, and ideological "superstructure."
 
@@ -31,7 +31,9 @@ variable
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, to then model this equivalence as a path in a space.
 
-References:
+[0]: [Cubical methods in homotopy type theory and univalent foundations](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/cubical-methods-in-homotopy-type-theory-and-univalent-foundations/ECB3FE6B4A0B19AED2D3A2D785C38AF9)
+
+Proposed literature:
 
 - [Computational methods and classical-Marxian economics](https://onlinelibrary.wiley.com/doi/10.1111/joes.12459)
 - [An Agent-Based Approach to Classical-Marxian Value Theory and Labor Mobility](https://jonathancogliano.com/wp-content/uploads/2018/10/Cogliano-Agent-Based-Approach-to-Value-Theory.pdf)
