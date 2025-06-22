@@ -77,7 +77,7 @@ So now we can _conjecturally_ [5] say that using Cubical Agda, we're treating wi
 
 > The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
-Thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics from this two perspectives in cubical Agda:
+Thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical Agda (pseudocode):
 
 ```
 variable
