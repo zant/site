@@ -73,11 +73,19 @@ So we now model Universes as if they were toposes in a (∞,1)-topos, which has 
                    A ---------------> A × A
                          δ (diagonal)
 
-So now we can _conjecturally_ [5] say that using Cubical Agda, we're treating with a (∞,1)-topos wich is a Cubical Type Theory:
+So now we can even be satisfied with saying that say that using Cubical Agda, we're treating with a (∞,1)-topos, which is a homotopy type theory [6]:
+
+> We prove the conjecture that any Grothendieck (∞, 1)-topos can
+> be presented by a Quillen model category that interprets homotopy type theory
+> with strict univalent universes. Thus, homotopy type theory can be used as a
+> formal language for reasoning internally to (∞, 1)-toposes, just as higher-order
+> logic is used for 1-toposes.
+
+Or we can _conjecturally_ [5] say it's a cubical type theory:
 
 > The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
-Thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical Agda (pseudocode):
+Thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical [7] Agda (pseudocode):
 
 ```
 variable
@@ -109,7 +117,11 @@ The nice thing is that if we use a cubical system for example, to model this dep
 
 [5]: [Quillen model structure](https://groups.google.com/g/homotopytypetheory/c/RQkLWZ_83kQ/m/s6iazlFdBgAJ)
 
+[5]: [All (∞,1)-toposes have strict univalent universes](https://arxiv.org/abs/1904.07004)
+
 [6]: [cubical type theory](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos#cubical_type_theory)
+
+[7]: [cubical](https://github.com/agda/cubical)
 
 Proposed literature:
 
