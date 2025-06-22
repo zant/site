@@ -100,16 +100,19 @@ variable
 tensor product that takes (ξ x Ψ in 𝓤)
 φ : Type 𝓤 := ξ × Ψ
 
--- Superstructure ρ (social and political life)
--- dependent type family 𝓥 indexed by 𝓤 (x : Type 𝓤) → ρ
--- still thinking about this one
-
 -- seeing properties of paths in this context is fun 
 apply0 : (Ξ : Type 𝓤) (p : I → Ξ) → Type Ξ
 p Ξ p = p i0
 
 path1 : {Ξ : Type 𝓤} (x : Ξ) → x ≡ x
 path1 x = λ i → x
+
+-- Superstructure ρ (social and political life)
+-- dependent type family 𝓥 indexed by 𝓤 (x : Type 𝓤) → ρ
+-- this is the type def, not sure about the structure yet
+-- ρ is a superstructure is a dependent type family (function) 
+-- that takes a mode of production Ξ in Type 𝓤 and returns a superstructure in Type 𝓥
+ρ : {Ξ : Type 𝓤} (x : Ξ) → Type 𝓥
 
 -- so different superstructures (e.g. socialist, communist, capitalist) 
 -- could be indexed by different modes of production?
