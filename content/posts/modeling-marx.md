@@ -73,7 +73,7 @@ So we now model Universes as if they were toposes in a (∞,1)-topos, which has 
                    A ---------------> A × A
                          δ (diagonal)
 
-So now we can _conjecturally_[5] say that using Cubical Agda, we're treating with a (∞,1)-topos wich is a Cubical Type Theory:
+So now we can _conjecturally_ [5] say that using Cubical Agda, we're treating with a (∞,1)-topos wich is a Cubical Type Theory:
 
 > The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
