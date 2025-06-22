@@ -96,11 +96,22 @@ variable
 -- Relations of Production (class structures) is a type Ψ, type in 𝓤
 Ψ : Type 𝓤
 
--- Mode of Production φ (forces of production, relations of production) is the tensor product that takes (ξ x Ψ to 𝓤)
+-- Mode of Production φ (forces of production, relations of production) is the 
+tensor product that takes (ξ x Ψ to 𝓤)
 φ : Type 𝓤 × Type 𝓤 → Type 𝓤
 
+p : Type 𝓤 → Type 𝓤 → Type 𝓥
 -- Superstructure ρ (social and political life), dependent type family in 𝓤
-ρ (x : ξ, y: Ψ) → ρ(φ(x, y)) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
+ρ (x : ξ, y: Ψ) → ρ φ(x, y) -- so different superstructures (e.g. socialist, 
+communist, capitalist) could be indexed by different modes of production? 
+with relations of production Ψ that are not based on class structures?
+
+data ρ (A : Type 𝓤) : Type 𝓥 → Type 𝓤 where
+[] : ρ
+_::_ : {n : Nat} →A →Vec A n →Vec A (suc n)
+infixr 5 _::_
+
+
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with cubical we get this equivalence as a path in a space for free.
