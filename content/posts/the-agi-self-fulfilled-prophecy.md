@@ -23,7 +23,7 @@ This 'warfighting' must be contained for and modeled towards peace. Violence can
 
 > He argues that war has a positive, ethical function: it reminds individuals of their mortality and their connection to a larger collective (the State), shaking society out of its complacent focus on individual self-interest. While not arguing that peace is violence, Hegel sees conflict as a necessary and rational force that is intertwined with the development and preservation of an ethical order.
 
-I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought against without violence. In the sense in which there's conflict (presented by the symbolical and material social-relations of war) and eventual movement towards peaceful resolution. 
+I woulnd't go so far as to argue that war as an open definition is positive. However, a war could be fought against without violence. In the sense in which there's conflict (presented by the symbolical and material social-relations of war) and eventual movement towards peaceful resolution.
 
 Here we need to be careful not to confuse it with the "peace" managed by capitalism, in marxist terms:
 
@@ -54,35 +54,35 @@ And collectively work until specific demands are met, per the BDS Call [13]:
 > We, representatives of Palestinian civil society, call upon international civil society organizations and people of conscience all over the world to impose broad boycotts and implement divestment initiatives against Israel similar to those applied to South Africa in the apartheid era. We appeal to you to pressure your respective states to impose embargoes and sanctions against Israel. We also invite conscientious Israelis to support this Call, for the sake of justice and genuine peace.
 
 > These non-violent punitive measures should be maintained until Israel meets its obligation to recognize the Palestinian people's inalienable right to self-determination and fully complies with the precepts of international law by:
+>
 > 1. Ending its occupation and colonization of all Arab lands and dismantling the Wall
 > 2. Recognizing the fundamental rights of the Arab-Palestinian citizens of Israel to full equality; and
 > 3. Respecting, protecting, and promoting the rights of Palestinian refugees to return to their homes and properties as stipulated in UN resolution 194.
 
-[1]: Announcing The Stargate Project ([https://openai.com/index/announcing-the-stargate-project/](https://openai.com/index/announcing-the-stargate-project/))
+[1]: [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/))
 
-[2]: Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI ([https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/](https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/))
+[2]: [Another OpenAI researcher quits—claims AI labs are taking a ‘very risky gamble’ with humanity amid the race toward AGI](https://fortune.com/2025/01/28/openai-researcher-steven-adler-quit-ai-labs-taking-risky-gamble-humanity-agi/))
 
-[3]: OpenAI wins $200m contract with US military for ‘warfighting’ ([https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting](https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting))
+[3]: [OpenAI wins $200m contract with US military for ‘warfighting’](https://www.theguardian.com/technology/2025/jun/17/openai-military-contract-warfighting)
 
-[4]: Sam Altman Gets Into Bed With The Pentagon ([https://www.youtube.com/watch?v=mq23JxeTKzc](https://www.youtube.com/watch?v=mq23JxeTKzc))
+[4]: [Sam Altman Gets Into Bed With The Pentagon](https://www.youtube.com/watch?v=mq23JxeTKzc)
 
+[5]: [Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
-[5]: Pause Giant AI Experiments: An Open Letter: ([https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/))
+[6]: [‘He’s a snake’: Musk jabs at Trump adviser who fueled messy presidential breakup](https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246)
 
-[6]: ‘He’s a snake’: Musk jabs at Trump adviser who fueled messy presidential breakup ([https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246](https://www.politico.com/news/2025/06/19/musk-sergio-gor-feud-00414246))
+[7]: [Palantir Provides the Engine for Donald Trump’s Deportation Machine](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/)
 
-[7]: Palantir Provides the Engine for Donald Trump’s Deportation Machine ([https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/))
+[8]: [Palantir grabbed Project Maven defense contract after Google left the program: sources](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12)
 
-[8]: Palantir grabbed Project Maven defense contract after Google left the program: sources ([https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12](https://www.businessinsider.com/palantir-took-over-from-google-on-project-maven-2019-12))
+[9]: [A former Google engineer warned that robot weapons could cause accidental mass killings](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9)
 
-[9]: A former Google engineer warned that robot weapons could cause accidental mass killings ([https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9](https://www.businessinsider.com/former-google-engineer-warns-against-killer-robots-2019-9))
+[10]: [The AI-fueled stock market bubble will crash in 2026, research firm says](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4)
 
-[10]: The AI-fueled stock market bubble will crash in 2026, research firm says ([https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4](https://markets.businessinsider.com/news/stocks/stock-market-bubble-crash-2026-artificial-intelligence-ai-interest-rates-2024-4))
+[11]: [There Is No AI Revolution](https://www.wheresyoured.at/wheres-the-money/))
 
-[11]: There Is No AI Revolution ([https://www.wheresyoured.at/wheres-the-money/](https://www.wheresyoured.at/wheres-the-money/))
+[12]: [ABDULLAH OCALAN IS THE MANDELA OF OUR TIME](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of)
 
-[12]: ABDULLAH OCALAN IS THE MANDELA OF OUR TIME ([https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of](https://slavoj.substack.com/p/abdullah-ocalan-is-the-mandela-of))
+[13]: [Philosophy for Palestine: 400 Philosophers Call to Support the Boycott of Complicit Israeli Academic Institutions](https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic)
 
-[13]: Philosophy for Palestine: 400 Philosophers Call to Support the Boycott of Complicit Israeli Academic Institutions ([https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic](https://bdsmovement.net/news/philosophy-for-palestine-400-philosophers-call-support-boycott-complicit-israeli-academic))
-
-[14]: BDS Call ([https://bdsmovement.net/bds-call](https://bdsmovement.net/bds-call))
+[14]: [BDS Call](https://bdsmovement.net/bds-call)
