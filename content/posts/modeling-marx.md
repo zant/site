@@ -97,7 +97,7 @@ variable
 Ψ : Type 𝓤
 
 -- Mode of Production φ (forces of production, relations of production) is the
-tensor product that takes (ξ x Ψ to 𝓤)
+tensor product that takes (ξ x Ψ in 𝓤)
 φ : Type 𝓤 := ξ × Ψ
 
 -- Superstructure ρ (social and political life)
