@@ -102,7 +102,7 @@ tensor product that takes (ξ x Ψ to 𝓤)
 
 -- Superstructure ρ (social and political life)
 -- dependent type family 𝓥 indexed by 𝓤
-<!-- data ρ : (Ξ : Type 𝓥) → Type 𝓤 → Type 𝓥
+data ρ : (Ξ : Type 𝓥) → Type 𝓤 → Type 𝓥
       state {φ : Type 𝓤} : ρ Ξ φ
 
 -- so different superstructures (e.g. socialist, communist, capitalist) 
