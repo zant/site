@@ -73,7 +73,7 @@ So we now model Universes as if they were toposes in a (∞,1)-topos, which has 
                    A ---------------> A × A
                          δ (diagonal)
 
-So now we can even be satisfied with saying that say that using Cubical Agda, we're treating with a (∞,1)-topos, which is a homotopy type theory [6]:
+So now we can even be satisfied with saying that using Cubical Agda, we're treating with a (∞,1)-topos, which is a homotopy type theory [6]:
 
 > We prove the conjecture that any Grothendieck (∞, 1)-topos can
 > be presented by a Quillen model category that interprets homotopy type theory
@@ -85,7 +85,7 @@ Or we can _conjecturally_ [5] say it's a cubical type theory:
 
 > The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
-Thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical [7] Agda (pseudocode):
+In any case, thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical [7] Agda (pseudocode):
 
 ```
 variable
