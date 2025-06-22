@@ -29,7 +29,7 @@ variable
 (x : φ) -> ρ(x) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
 ```
 
-The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, to then model this equivalence as a path in a space.
+The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with HoTT we get this equivalence as a path in a space for free.
 
 [0]: [Cubical methods in homotopy type theory and univalent foundations](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/cubical-methods-in-homotopy-type-theory-and-univalent-foundations/ECB3FE6B4A0B19AED2D3A2D785C38AF9)
 
