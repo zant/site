@@ -1,12 +1,11 @@
 ---
-title: "Investigations in Computational methods and classical-Marxian economics"
+title: "Investigations in Computational Marxian economics"
 date: 2025-06-22T00:49:56+02:00
 ---
 
-This is an open WIP. 
+This is an open WIP.
 
-
-*Abstract*
+_Abstract_
 
 I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory interesting to model historical materialism:
 
