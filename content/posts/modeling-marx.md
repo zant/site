@@ -5,7 +5,7 @@ date: 2025-06-22T00:49:56+02:00
 
 This is an open WIP.
 
-_Abstract_
+**Abstract**
 
 I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory to model historical materialism:
 
