@@ -19,12 +19,12 @@ Then HoTT could allow us to model the "mode of production" and the "relations of
 
 ```
 variable
- 𝓤 𝓥 𝓦 : Universe -- 𝓤 𝓥 𝓦 are Universes in HoTT
+ 𝓤 𝓥 𝓦 𝓣 : Universe -- 𝓤 𝓥 𝓦 𝓣 are Universes in HoTT
 
-ξ : 𝓤 -- ξ is the forces of production (technology, labour), belongs to 𝓤
-Ψ : 𝓥 -- Ψ are the relations of production (class structures), belongs to 𝓥, not sure if they belong to the same universe
+ξ : 𝓤 -- ξ is the forces of production (technology, labour), in 𝓤
+Ψ : 𝓥 -- Ψ are the relations of production (class structures), in 𝓥, not sure if they belong to the same universe with the forces of production, but having a cartesian product could be fun
 φ : ξ x Ψ : 𝓤 x 𝓥 -- φ is the mode of production, the cartesian product (tensor product) the set of all (forces of production, relations of production), this product could be thought of as tensor product in a cartesian closed category?
-ρ : Superstructure -- ρ is social and political life
+ρ : 𝓣 -- ρ is the superstructure (social and political life), in 𝓣
 
 (x : φ) -> ρ(x) -- so different superstructures (socialism) could be indexed by different modes of production? maybe with a relation of production Ψ that's not based on class structures?
 ```
