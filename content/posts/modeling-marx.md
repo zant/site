@@ -112,8 +112,8 @@ path1 x = λ i → x
 -- (x : 𝓤) → 𝓥(x)
 -- this is the type def, not sure about the structure yet
 -- ρ is a dependent type family (function) that takes:
--- a mode of production Ξ in Type 𝓤 and returns a superstructure in Type 𝓥
-ρ : {Ξ : Type 𝓤} (x : Ξ) → Type 𝓥
+-- a mode of production Ξ in φ (Type 𝓤) and returns a superstructure in Type 𝓥
+ρ : {Ξ : φ} (x : Ξ) → Type 𝓥
 
 -- so different superstructures (e.g. socialist, communist, capitalist) 
 -- could be indexed by different modes of production?
