@@ -7,7 +7,7 @@ This is an open WIP.
 
 **Abstract**
 
-I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory[0] to model historical materialism:
+I'm looking into computational methods on classical-Marxian economics. I also have some ideas as to use homotopy type theory [0] to model historical materialism:
 
 > Marx argued that the economic base of a society—the "mode of production," which includes the forces of production (technology, labor) and the relations of production (class structures)—conditions the legal, political, and ideological "superstructure."
 
