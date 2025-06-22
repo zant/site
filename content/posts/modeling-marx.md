@@ -21,16 +21,12 @@ Then HoTT could allow us to model the "mode of production" and the "relations of
 variable
  𝓤 𝓥 𝓦 : Universe -- 𝓤 𝓥 𝓦 are Universes in HoTT
 
-ProductionRelations : 𝓤 -- ProductionRelations belongs to 𝓤
-ProductionMode : 𝓥 -- ProductionMode belongs to 𝓥
-Superstructure : 𝓦 -- Superstructure belongs to 𝓦
+ξ : 𝓤 -- ξ is the forces of production (technology, labour), belongs to 𝓤
+Ψ : 𝓥 -- Ψ are the relations of production (class structures), belongs to 𝓥, not sure if they belong to the same universe
+φ : ξ x Ψ : 𝓤 x 𝓥 -- φ is the mode of production, the cartesian product (tensor product) the set of all (forces of production, relations of production), this product could be thought of as tensor product in a cartesian closed category?
+ρ : Superstructure -- ρ is social and political life
 
-ξ : ProductionForces -- ξ belongs to ProductionRelations (technology, labour)
-Ψ : ProductionMode -- Ψ belongs to ProductionMode (class structures)
-φ : ξ x Ψ -- Dot product
-ρ : Superstructure (social and political life)
-
-(x : ρ) -> φ(x)
+(x : φ) -> ρ(x) -- so different superstructures (socialism) could be indexed by different modes of production? maybe with a relation of production Ψ that's not based on class structures?
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, to then model this equivalence as a path in a space.
