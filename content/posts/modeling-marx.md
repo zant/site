@@ -15,18 +15,67 @@ Why homotopy type theory? Well, if we have that:
 
 > If A is a type in universe U*i and for every x : A, the type B(x) is in universe U_j, then the dependent function type (x : A) -> B(x) resides in the universe U*{max(i, j)}.
 
-Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. I ended up with some approximation of a structure similar to a CCC (Cartesian Closed Category) which sounds good!. In cubical Agda:
+Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. I ended up with some approximation of a structure similar to a ([locally cartesian closed category](https://ncatlab.org/nlab/show/locally+cartesian+closed+category)) because at the end I'm trying to model dependent types, what homotopy type theory uses to model Universes.
+
+> A locally cartesian closed category is a category C whose slice categories C / x are all cartesian closed. [1]
+
+The univalence Axiom says there's an equivalence between equivalence and equality, which Cubical Type Theory constructs, this is just a property of a Martin-Löf dependent type theory. (i hope)
+
+> Voevodsky’s way to achieve this is to start with a Martin-Löf type theory (MLTT), including identity types and type universes, and postulate a single axiom, named univalence. [3]
+
+Now, taking in mind the relationship between a locally cartesian closed category and Martin-Löf dependent type theory[2].
+
+> **Dependent type theory and locally cartesian closed categories**
+> We discuss here how dependent type theory, is the syntax of which locally cartesian closed categories provide the semantics. For a dedicated discussion of this (and the subtle coherence issues involved) see also at categorical model of dependent types.
+>
+> Theorem 3.2. There are 2-functors [1]
+>
+> Cont, that forms a category of contexts of a Martin-Löf dependent type theory;
+> Lang that forms the internal language of a locally cartesian closed category.
+>
+> that constitute an equivalence of 2-categories
+
+> MLDependentTypeTheories ⟵Lang≃⟶Cont LocallyCartesianClosedCategories
+
+> Definition 3.4. Given a dependent type theory T, its category of contexts Con(T) is the category whose
+>
+> - objects are the types of T;
+> - morphisms f: A → B are the terms f of function type A → B.
+>   Composition is given in the evident way.
+>
+> Proposition 3.5. Con(T) has finite limits and is a cartesian closed category.
+
+So now we can better define our locally cartesian closed category:
+
+> 1. Definition>
+>    A locally cartesian closed category is a category C whose slice categories C / x are all cartesian closed.
+>
+> If a locally cartesian closed category C has a terminal object, then C is itself cartesian closed and in fact has all finite limits (because, cartesian products in C / x are pullbacks in C); often this requirement is included in the definition.
+>
+> Equivalently, a locally cartesian closed category C is a category with pullbacks (and a terminal object, if required) such that each base change functor f\* : C / y → C / x has a right adjoint Π_f, called the dependent product. (This equivalence is discussed in detail below.)
+>
+> In particular, such pullbacks preserve all colimits. Therefore, if a locally cartesian closed category has finite colimits, it is automatically a coherent category, and in fact a Heyting category.
+
+And now with a little help of topos theory and Grothendieck:
+
+> The “fundamental theorem” of topos theory, in the terminology of McLarty 1992, asserts that for any topos 𝒯 and x ∈ 𝒯 any object, also the slice category 𝒯/x is a topos: the slice topos.
+
+Hence, we have the concept of Universes in HoTT, where Universes are objects X ∈ 𝒯, and 𝒯 a topos in the slice category 𝒯/X.
+
+Given all of the above, and given that this is more or less what cubical Agda is, let's imagine for a second that:
 
 ```
+
 variable
- 𝓤 𝓥 : Universe -- hlevels in HoTT
+ 𝓤 𝓥 : Universes
 
 -- Forces of Production (technology, labour) is a type ξ, type in 𝓤
-ξ : 𝓤
+ξ : Type 𝓤
 -- Relations of Productions (class structures) is a type Ψ, type in 𝓤
-Ψ : 𝓤
+Ψ : Type 𝓤
+
 -- Mode of Production φ (forces of production, relations of production) is the tensor product that takes (ξ x Ψ to 𝓤)
-φ : 𝓤 × 𝓤 → 𝓤
+φ : Type 𝓤 × Type 𝓤 → Type 𝓤
 
 -- Superstructure ρ (social and political life), dependent type family in 𝓤
 ρ (x : ξ, y: Ψ) -> ρ(φ(x, y)) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
@@ -35,6 +84,12 @@ variable
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with HoTT we get this equivalence as a path in a space for free.
 
 [0]: [Cubical methods in homotopy type theory and univalent foundations](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/cubical-methods-in-homotopy-type-theory-and-univalent-foundations/ECB3FE6B4A0B19AED2D3A2D785C38AF9)
+
+[1]: [locally cartesian closed category](https://ncatlab.org/nlab/show/locally+cartesian+closed+category)
+
+[2]: [Dependent type theory and locally cartesian closed categories](https://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory#DependentTypeTheory)
+
+[3]: [Introduction to Univalent Foundations of Mathematics with Agda](https://martinescardo.github.io/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#universes)
 
 Proposed literature:
 
