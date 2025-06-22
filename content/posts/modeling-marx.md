@@ -102,11 +102,10 @@ tensor product that takes (ξ x Ψ to 𝓤)
 
 -- Superstructure ρ (social and political life)
 -- dependent type family 𝓥 indexed by 𝓤
-p : Type 𝓤 → Type 𝓥
-ρ (σ : Type 𝓤) → ρ(σ)
+data ρ (Ξ : Type 𝓥) → Type 𝓤 → Type 𝓥
 
--- so different superstructures (e.g. socialist,
--- communist, capitalist) could be indexed by different modes of production?
+-- so different superstructures (e.g. socialist, communist, capitalist) 
+-- could be indexed by different modes of production?
 -- with relations of production Ψ that are not based on class structures?
 ```
 
