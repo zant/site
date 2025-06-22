@@ -3,7 +3,7 @@ title: "Investigations in Computational Marxian economics"
 date: 2025-06-22T00:49:56+02:00
 ---
 
-this is an open WIP - don't trust in any of the math yet lol
+this is an open WIP. i have to learn a bunch of game theory i have no idea about, and don't trust in any of the math yet lol 
 
 **Abstract**
 
