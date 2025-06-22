@@ -100,7 +100,7 @@ variable
 φ : Type 𝓤 × Type 𝓤 → Type 𝓤
 
 -- Superstructure ρ (social and political life), dependent type family in 𝓤
-ρ (x : ξ, y: Ψ) -> ρ(φ(x, y)) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
+ρ (x : ξ, y: Ψ) → ρ(φ(x, y)) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with cubical we get this equivalence as a path in a space for free.
@@ -117,11 +117,11 @@ The nice thing is that if we use a cubical system for example, to model this dep
 
 [5]: [Quillen model structure](https://groups.google.com/g/homotopytypetheory/c/RQkLWZ_83kQ/m/s6iazlFdBgAJ)
 
-[5]: [All (∞,1)-toposes have strict univalent universes](https://arxiv.org/abs/1904.07004)
+[5]: [All \(∞,1\)-toposes have strict univalent universes](https://arxiv.org/abs/1904.07004)
 
 [6]: [cubical type theory](https://ncatlab.org/nlab/show/%28infinity%2C1%29-topos#cubical_type_theory)
 
-[7]: [cubical](https://github.com/agda/cubical)
+[7]: [cubical github](https://github.com/agda/cubical)
 
 Proposed literature:
 
