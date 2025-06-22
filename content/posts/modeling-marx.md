@@ -3,7 +3,7 @@ title: "Investigations in Computational Marxian economics"
 date: 2025-06-22T00:49:56+02:00
 ---
 
-this is an open WIP. i have to learn a bunch of game theory i have no idea about, so don't trust in any of the math yet lol 
+this is an open WIP. i have to learn a bunch of game theory i have no idea about, so don't trust in any of the math yet lol
 
 **Abstract**
 
@@ -15,22 +15,21 @@ Why homotopy type theory? Well, if we have that:
 
 > If A is a type in universe U*i and for every x : A, the type B(x) is in universe U_j, then the dependent function type (x : A) -> B(x) resides in the universe U*{max(i, j)}.
 
-Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. I ended up with some approximation of a structure similar to a CCC (Cartesian Closed Category) which sounds good!. In pseudo cubical-Agda:
+Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. I ended up with some approximation of a structure similar to a CCC (Cartesian Closed Category) which sounds good!. In cubical Agda:
 
 ```
 variable
- 𝓤 𝓥 𝓦 𝓣 : Universe -- 𝓤 𝓥 𝓦 𝓣 are Universes in HoTT
+ 𝓤 𝓥 : Universe -- hlevels in HoTT
 
--- Forces of Production (technology, labour) is a type ξ, in 𝓤
+-- Forces of Production (technology, labour) is a type ξ, type in 𝓤
 ξ : 𝓤
--- Relations of Productions (class structures) is a type Ψ in 𝓥
+-- Relations of Productions (class structures) is a type Ψ, type in 𝓤
 Ψ : 𝓤
--- Mode of Production (forces of production, relations of production) is the tensor product that takes (ξ x Ψ to 𝓤)
-φ : 𝓤 × 𝓤 → 𝓤 
+-- Mode of Production φ (forces of production, relations of production) is the tensor product that takes (ξ x Ψ to 𝓤)
+φ : 𝓤 × 𝓤 → 𝓤
 
-ρ : 𝓣 -- ρ is the superstructure (social and political life), in 𝓣
-
-(x : ξ, y : Ψ) -> ρ(x, y) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?j
+-- Superstructure ρ (social and political life), dependent type family in 𝓤
+ρ (x : ξ, y: Ψ) -> ρ(φ(x, y)) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with HoTT we get this equivalence as a path in a space for free.
