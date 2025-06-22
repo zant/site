@@ -3,7 +3,7 @@ title: "Investigations in Computational Marxian economics"
 date: 2025-06-22T00:49:56+02:00
 ---
 
-this is an open WIP - i have no idea if it makes any actual sense
+this is an open WIP - don't trust in any of the math yet
 
 **Abstract**
 
