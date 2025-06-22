@@ -78,7 +78,6 @@ So now we can _conjecturally_[5] say that using Cubical Agda, we're treating wit
 > The Cartesian cubical model of cubical type theory and homotopy type theory is conjectured to be an (∞,1)-topos not equivalent to (∞,1)-groupoids. [6]
 
 ```
-
 variable
  𝓤 𝓥 : Universes
 
