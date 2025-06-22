@@ -15,18 +15,22 @@ Why homotopy type theory? Well, if we have that:
 
 > If A is a type in universe U*i and for every x : A, the type B(x) is in universe U_j, then the dependent function type (x : A) -> B(x) resides in the universe U*{max(i, j)}.
 
-Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. In pseudo cubical-Agda:
+Then HoTT could allow us to model the "mode of production" (production forces, relations of production) and the "superstructure" as a dependent function type. I ended up with some approximation of a structure similar to a CCC (Cartesian Closed Category) which sounds good!. In pseudo cubical-Agda:
 
 ```
 variable
  𝓤 𝓥 𝓦 𝓣 : Universe -- 𝓤 𝓥 𝓦 𝓣 are Universes in HoTT
 
-ξ : 𝓤 -- ξ is the forces of production (technology, labour), in 𝓤
-Ψ : 𝓥 -- Ψ are the relations of production (class structures), in 𝓥, not sure if they belong to the same universe with the forces of production, but having a cartesian product could be fun
-φ : ξ x Ψ : 𝓤 x 𝓥 -- φ is the mode of production, the cartesian product (tensor product) the set of all (forces of production, relations of production), this product could be thought of as tensor product in a cartesian closed category?
+-- Forces of Production (technology, labour) is a type ξ, in 𝓤
+ξ : 𝓤
+-- Relations of Productions (class structures) is a type Ψ in 𝓥
+Ψ : 𝓤
+-- Mode of Production (forces of production, relations of production) is the tensor product that takes (ξ x Ψ to 𝓤)
+φ : 𝓤 × 𝓤 → 𝓤 
+
 ρ : 𝓣 -- ρ is the superstructure (social and political life), in 𝓣
 
-(x : φ) -> ρ(x) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?
+(x : ξ, y : Ψ) -> ρ(x, y) -- so different superstructures (e.g. socialist, communist, capitalist) could be indexed by different modes of production? with relations of production Ψ that are not based on class structures?j
 ```
 
 The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, and with HoTT we get this equivalence as a path in a space for free.
