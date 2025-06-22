@@ -33,7 +33,7 @@ Superstructure : 𝓦 -- Superstructure belongs to 𝓦
 (x : ρ) -> φ(x)
 ```
 
-The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) ProductionModes different from that of capitalism, to then model this equivalence as a path in a space.
+The nice thing is that if we use a cubical system for example, to model this dependency types, we can leverage the univalence theorem to find equivalent (up to isomorphism) `ProductionMode`s different from that of capitalism, to then model this equivalence as a path in a space.
 
 References:
 
