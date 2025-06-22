@@ -101,9 +101,15 @@ tensor product that takes (ξ x Ψ in 𝓤)
 φ : Type 𝓤 := ξ × Ψ
 
 -- Superstructure ρ (social and political life)
--- dependent type family 𝓥 indexed by 𝓤
-data ρ : (Ξ : Type 𝓥) → Type 𝓤 → Type 𝓥
-      state {φ : Type 𝓤} : ρ Ξ φ
+-- dependent type family 𝓥 indexed by 𝓤 (x : Type 𝓤) → ρ
+-- still thinking about this one
+
+-- seeing properties of paths in this context is fun 
+apply0 : (Ξ : Type 𝓤) (p : I → Ξ) → Type Ξ
+p Ξ p = p i0
+
+path1 : {Ξ : Type 𝓤} (x : Ξ) → x ≡ x
+path1 x = λ i → x
 
 -- so different superstructures (e.g. socialist, communist, capitalist) 
 -- could be indexed by different modes of production?
