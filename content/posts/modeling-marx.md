@@ -110,6 +110,7 @@ tensor product that takes (ξ x Ψ in 𝓤)
 apply0 : (Ξ : Type 𝓤) (p : I → Ξ) → Type Ξ
 p Ξ p = p i0
 
+-- equivalence between modes of production as paths in a space
 path1 : {Ξ : Type 𝓤} (x : Ξ) → x ≡ x
 path1 x = λ i → x
 
