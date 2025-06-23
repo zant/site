@@ -88,8 +88,14 @@ Or we can _conjecturally_ [5] say it's a cubical type theory:
 In any case, thinking of our different objects (Forces of Production ξ, Relations of Production Ψ, etc) as toposes in a (∞,1)-topos, will allow us to model Marxian economics in the following way in cubical [7] Agda (pseudocode):
 
 ```
+-- Interpretation:
+-- Universes/types are toposes in a Grothendieck (∞, 1)-topos 
+-- presented by a Quillen model category
+-- Homotopy type theory is a formal language for reasoning internally
+-- to (∞, 1)-toposes
 variable
- 𝓤 𝓥 : Universes
+ 𝓤 𝓥 : Universes 
+
 
 -- Forces of Production (technology, labour) is a type ξ, type in 𝓤
 ξ : Type 𝓤
