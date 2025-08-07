@@ -5,7 +5,7 @@ date: 2025-08-04
 
 Antes de que me digan que estoy de lado del gobierno, es simplemente una crítica de la crítica, si el gobierno realmente está interesado en tácticas de "lavado" económico, mostrando maravillas en planillas. La única forma de resistir en contra de la lógica financialista y capitalista con interéses de enriquecimiento no sustentable, es proponer alternativas sustentables basadas en los interéses de la población.
 
-El otro día leí un artículo que básicamente proponía aumentar el tope del déficit fiscal del -1.5%. Proposición que fue negada por Valdovinos, que aparentemente sostiene ese tope como una "regla de oro". Pero que realmente implíca aumentar el tope fiscal, y cómo podemos entender mejor nuestra propia economía?
+El otro día leí un artículo que básicamente proponía aumentar el tope del déficit fiscal del -1.5%. Proposición que fue negada por Valdovinos, que aparentemente sostiene ese tope como una "regla de oro". Pero que realmente implíca aumentar el tope?
 
 Mirando el Informe de Finanzas Públicas del 2024, estos están marcados como algunos de los gastos:
 
@@ -33,7 +33,7 @@ En el artículo en el que se crítica al tope fiscal, se mencióna que la minist
 
 En el cuál se implíca que la lógica es, como queremos llegar a un objetivo de doblar el PIB en 10 años, necesitamos aumentar el tope fiscal como una palanca que nos permita tomar más deudas, y mediante esas deudas invertir en sectóres estratégicos de la economía, inversiones que serían las representantes del aumento del PIB mediante aumentar la deuda.
 
-Me parece que la crítica es importante, el _leverage_ utiliza la habilidad de hacer prestaciones para aumentar el retorno de posiciones que se estiman inversiones cómodas. Pero de todas formas hay algo que me resuena con las soluciones ofrecidas por la crítica Principalmente la idea de que bajar el tope fiscal es la única forma de aumentar inversiones.
+Me parece que la crítica es importante, el _leverage_ utiliza la habilidad de hacer prestaciones para aumentar el retorno de posiciones que se estiman inversiones cómodas. Pero de todas formas hay algo que me resuena con las soluciones ofrecidas por la crítica Principalmente la idea de que aumentar el tope fiscal es la única forma de aumentar inversiones.
 
 Al final el tope fiscal es un mecanismo de disciplina macroeconómica, que dentro del contexto del posicionamiento internacional de Paraguay en el mercado financiero global, es un mecanismo que de cierta forma "garantiza" una estabilidad al tener una tolerancia baja al endeudamiento.
 
