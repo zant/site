@@ -19,12 +19,12 @@ Mirando el Informe de Finanzas Públicas del 2024, estos están marcados como al
 > Específicamente, se reconocieron deudas por PYG 1.598 mil millones (el 0,5% del PIB), equivalentes a USD 219 millones, que
 > representan el 3,3% del gasto total obligado.
 
-> Las remuneraciones aumentaron 8,1% anual, reflejando el compromiso del gobierno con sectores
+> - Las remuneraciones aumentaron 8,1% anual, reflejando el compromiso del gobierno con sectores
 > clave como la salud y la educación
 > Por su parte, para el personal de salud, se implementó un escalafón médico y un nuevo piso salarial en el MSPBS, además de nivelar los
 > salarios del personal del Hospital de Clínicas y establecer una carrera profesional para enfermería.
 
-> Las prestaciones sociales aumentaron en 18,2%, impulsadas por el fortalecimiento de los programas
+> - Las prestaciones sociales aumentaron en 18,2%, impulsadas por el fortalecimiento de los programas
 > sociales: 
 > En particular, se destaca el aumento en un 25% las transferencias monetarias para los beneficiarios del programa
 > Tekoporã Mbarete, siendo la primera actualización desde 2015 del 12%.
