@@ -3,7 +3,7 @@ title: "Truco"
 date: 2025-08-04
 ---
 
-Antes de que me digan que estoy de lado del gobierno, es simplemente una crítica de la crítica, si el gobierno realmente está interesado en tácticas de "lavado" económico, mostrando maravillas en planillas. La única forma de resistir en contra de la lógica financialista y capitalista con interéses de enriquecimiento no sustentable, es proponer alternativas sustentables basadas en los interéses de la población.
+Antes de que me digan que estoy de lado del gobierno, es simplemente una crítica de la crítica, si el gobierno realmente está interesado en tácticas de "maravillas-washing" económico, mostrando maravillas de números en planillas. La única forma de resistir en contra de la lógica financialista y capitalista con intereses de enriquecimiento no sustentable, es proponer alternativas sustentables basadas en los intereses de la población.
 
 El otro día leí un artículo que básicamente proponía aumentar el tope del déficit fiscal del -1.5%. Proposición que fue negada por Valdovinos, que aparentemente sostiene ese tope como una "regla de oro". Pero que realmente implíca aumentar el tope?
 
