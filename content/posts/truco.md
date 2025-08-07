@@ -1,6 +1,6 @@
 ---
 title: "Truco"
-date: 2025-08-04
+date: 2025-08-07
 ---
 
 Antes de que me digan que estoy de lado del gobierno, es simplemente una crítica de la crítica, si el gobierno realmente está interesado en tácticas de "maravillas-washing" económico, mostrando maravillas de números en planillas. La única forma de resistir en contra de la lógica financialista y capitalista con intereses de enriquecimiento no sustentable, es proponer alternativas sustentables basadas en los intereses de la población.
