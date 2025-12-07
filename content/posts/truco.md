@@ -10,24 +10,24 @@ El otro día leí un artículo que básicamente proponía aumentar el tope del d
 Mirando el Informe de Finanzas Públicas del 2024, estos están marcados como algunos de los gastos:
 
 > - El incremento en el gasto total fue impulsado por mayores pagos en intereses, bienes y servicios,
-> remuneraciones y prestaciones sociales
-> Específicamente, el pago de intereses creció un 44,4%, contribuyendo 3,9 p.p. al incremento del gasto total (Tabla 3).
+>   remuneraciones y prestaciones sociales
+>   Específicamente, el pago de intereses creció un 44,4%, contribuyendo 3,9 p.p. al incremento del gasto total (Tabla 3).
 
 > - El gasto en el uso de bienes y servicios creció 35,9% anual, explicado principalmente por el
-> reconocimiento de las deudas atrasadas
-> Estas deudas con proveedores fueron contraídas por el Ministerio de Salud Pública y Bienestar Social (MSPBS) en años anteriores. 
-> Específicamente, se reconocieron deudas por PYG 1.598 mil millones (el 0,5% del PIB), equivalentes a USD 219 millones, que
-> representan el 3,3% del gasto total obligado.
+>   reconocimiento de las deudas atrasadas
+>   Estas deudas con proveedores fueron contraídas por el Ministerio de Salud Pública y Bienestar Social (MSPBS) en años anteriores.
+>   Específicamente, se reconocieron deudas por PYG 1.598 mil millones (el 0,5% del PIB), equivalentes a USD 219 millones, que
+>   representan el 3,3% del gasto total obligado.
 
 > - Las remuneraciones aumentaron 8,1% anual, reflejando el compromiso del gobierno con sectores
-> clave como la salud y la educación
-> Por su parte, para el personal de salud, se implementó un escalafón médico y un nuevo piso salarial en el MSPBS, además de nivelar los
-> salarios del personal del Hospital de Clínicas y establecer una carrera profesional para enfermería.
+>   clave como la salud y la educación
+>   Por su parte, para el personal de salud, se implementó un escalafón médico y un nuevo piso salarial en el MSPBS, además de nivelar los
+>   salarios del personal del Hospital de Clínicas y establecer una carrera profesional para enfermería.
 
 > - Las prestaciones sociales aumentaron en 18,2%, impulsadas por el fortalecimiento de los programas
-> sociales: 
-> En particular, se destaca el aumento en un 25% las transferencias monetarias para los beneficiarios del programa
-> Tekoporã Mbarete, siendo la primera actualización desde 2015 del 12%.
+>   sociales:
+>   En particular, se destaca el aumento en un 25% las transferencias monetarias para los beneficiarios del programa
+>   Tekoporã Mbarete, siendo la primera actualización desde 2015 del 12%.
 
 En el artículo en el que se crítica al tope fiscal, se mencióna que la ministra del MOPC posicionó su crítica:
 
@@ -35,7 +35,7 @@ En el artículo en el que se crítica al tope fiscal, se mencióna que la minist
 
 En el cuál se implíca que la lógica es, como queremos llegar a un objetivo de doblar el PIB en 10 años, necesitamos aumentar el tope fiscal como una palanca que nos permita tomar más deudas, y mediante esas deudas invertir en sectóres estratégicos de la economía, inversiones que serían las representantes del aumento del PIB mediante aumentar la deuda.
 
-Se puede pensar como un tipo de _leverage_, o más simplemente como una necesidad del MOPC, en general proyectos de infraestructura requieren grandes inversiones iniciales que pueden ser dificiles de alcanzar sin admitir grandes deudas específicas. Pero fuera del punto en el que el partido Colorado demostró no ser capaz de, no solamente finalizar el proyecto del Metro Bus, pero de no recurrir a la corrupción como método principal de administración de la mesada pública, de todas formas hay algo que me resuena con las soluciones ofrecidas por la crítica.  Principalmente la idea de que aumentar el tope fiscal es la única forma de aumentar inversiones.
+Se puede pensar como un tipo de _leverage_, o más simplemente como una necesidad del MOPC, en general proyectos de infraestructura requieren grandes inversiones iniciales que pueden ser dificiles de alcanzar sin admitir grandes deudas específicas. Pero fuera del punto en el que el partido Colorado demostró no ser capaz de, no solamente finalizar el proyecto del Metro Bus, pero de no recurrir a la corrupción como método principal de administración de la mesada pública, de todas formas hay algo que me resuena con las soluciones ofrecidas por la crítica. Principalmente la idea de que aumentar el tope fiscal es la única forma de aumentar inversiones.
 
 Al final el tope fiscal es un mecanismo de disciplina macroeconómica, que dentro del contexto del posicionamiento internacional de Paraguay en el mercado financiero global, es un mecanismo que de cierta forma "garantiza" una estabilidad al tener una tolerancia baja al endeudamiento.
 
