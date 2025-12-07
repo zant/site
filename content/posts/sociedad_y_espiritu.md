@@ -1,5 +1,5 @@
 ---
-title: "Sociedad y Espíritu"
+title: "Sociedad y espíritu"
 date: 2025-12-07T15:15:17+03:00
 ---
 
