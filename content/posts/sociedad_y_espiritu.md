@@ -1,6 +1,7 @@
 ---
 title: "Sociedad y espíritu"
 date: 2025-12-07T15:15:17+03:00
+draft: true
 ---
 
 wip
@@ -11,7 +12,7 @@ En la modernidad, con Marx, se rompe la tradición del idealismo alemán cuando 
 
 Pero no es este enfoque en las relaciones sociales el que explotan Stalin y Mao para disponer de la vida humana como una herramienta hacia un ideal, supuestamente fundado en lo material, pero que parece asemejarse más a una tierra prometida, cuyo rey profetiza la palabra del comunismo?
 
-Marx propone: el ser solamente encuentra su lugar en la sociedad, en reflexión con el otro. Lo mismo nos dice el Yoneda Lemma y la teoría de categorías sobre las propiedades de los conceptos, los conceptos se pueden estudiar listando cada una de sus propiedades tomadas como intrínsecas, pero estas propiedades finalmente no existen en un vacío -á la estructuralismo- si no que son las relaciones las que finalmente definen estas propiedades, y por transitividad, entonces los conceptos también pueden ser totalmente definidos simplemente mediante las relaciones que tienen entre ellos. 
+Marx propone: el ser solamente encuentra su lugar en la sociedad, en reflexión con el otro. Lo mismo nos dice el Yoneda Lemma y la teoría de categorías sobre las propiedades de los conceptos, los conceptos se pueden estudiar listando cada una de sus propiedades tomadas como intrínsecas, pero estas propiedades finalmente no existen en un vacío -á la estructuralismo- si no que son las relaciones las que finalmente definen estas propiedades, y por transitividad, entonces los conceptos también pueden ser totalmente definidos simplemente mediante las relaciones que tienen entre ellos.
 
 La tensión aparece en que, si bien el materialismo define los limites materiales de la realidad, la lógica y los conceptos aún juegan un papel principal en el movimiento de la historia (a la Hegel). Parecería ser que la mente del humano está constantemente haciendo una síntesis de aplicar conceptos a estructuras, en el estructuralismo se acepta que las estructuras que definen los conceptos no sos estables y siguen cambiando, este proceso de descubrir nuevos conceptos y sus relaciones se puede pensar como un program synthesis.
 
@@ -27,8 +28,8 @@ Die Einzelperson: Nur als Einzelner – außerhalb der Masse und der allgemeinen
 
 No es esta Absurdität entonces, algo muy similar a lo que vemos en Lacan con el concepto del real? Eso que escapa la racionalidad, el concepto indefinido, que en Lacan es inaguantable, pero que en el existencialismo de Kierkegaard, esta experiencia subjetiva irracional se puede sentir, de manera abstracta con absoluta certeza. Se podría decir que la Ilustración no es más que un ataque a la experiencia subjetiva del individuo, y esta es la tensión final a la que quiero llegar: la sociedad y el espíritu.
 
-Nuestra contemporaneidad es el resultado de un largo proceso de des-espiritualización, y desensibilización de los individuos. La razón, al ser instrumentalizada es el único motor del progreso en la sociedad ilustrada. El sentimiento y la intuición subjetiva (que se podría decir que es la maquinaria del inconsciente, siendo el inconsciente acceso al real, o en términos teológicos a JHWH/Dios/Allah) de las que habla Kierkegaard son renegadas a mito/superstición. 
+Nuestra contemporaneidad es el resultado de un largo proceso de des-espiritualización, y desensibilización de los individuos. La razón, al ser instrumentalizada es el único motor del progreso en la sociedad ilustrada. El sentimiento y la intuición subjetiva (que se podría decir que es la maquinaria del inconsciente, siendo el inconsciente acceso al real, o en términos teológicos a JHWH/Dios/Allah) de las que habla Kierkegaard son renegadas a mito/superstición.
 
-Es justamente esta completa subyugación de la subjetividad y de la intuición de las que se beneficia el sistema de mercancías y de creación de productos culturales contemporáneo (incluyendo “teorías filosóficas”). Todo es parte de un desarrollo cultural “razonable”, en el cual las jerarquías del saber y de la cultura están bien definidas, y el individuo queda completamente inerte ante la maquinaria de esta razón, que define el compás cultural, de forma jerárquica. 
+Es justamente esta completa subyugación de la subjetividad y de la intuición de las que se beneficia el sistema de mercancías y de creación de productos culturales contemporáneo (incluyendo “teorías filosóficas”). Todo es parte de un desarrollo cultural “razonable”, en el cual las jerarquías del saber y de la cultura están bien definidas, y el individuo queda completamente inerte ante la maquinaria de esta razón, que define el compás cultural, de forma jerárquica.
 
 Entonces, luego de un largo proceso la sociedad occidental eliminó a sus reyes, y colonizó y mato y toda la historia, para llegar a una sociedad secular a la que rinde tributo simbólico a la razón. No estamos, sin embargo, en una sociedad completamente no razonable? En la que estamos completamente sedados mediante el constante consumo de información, narcóticos, o ilusiones de adquisición de dinero y consumo.
