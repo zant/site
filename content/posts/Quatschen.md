@@ -1,6 +1,7 @@
 ---
 title: "Quatschen"
 date: 2025-12-21T00:49:56+02:00
+draft: true
 ---
 
 [16.12.25, 13:54:32] gonzalo: and i guess the question is “why empathy is good”, and that there is were rationality stops, because one can only feel empathy is good, rationality can only describe the process of feeling, but not how it feels, it can only describe there’s a warmth, that emotions make themselves be felt but not describable, and often they can only be described with metaphors, poetry, music, paintings, etc. it’s basically a non describable thing that says to us “help someone”, and i guess this is what i call “trascendental objectivity” lol, the shared capacity of everyone regarding of culture to feel empathy, and this “wam” constellation of emotions around
