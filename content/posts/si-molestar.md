@@ -3,7 +3,7 @@ title: "Sí Molestar"
 date: 2026-08-21T15:17:56+02:00
 ---
 
-La única herramienta que tienen las bases populares para negociar con el gobierno son las molestias. La huelga general es una de las más grandes y efectivas molestias, el mensaje es fuerte y claro: estamos organizados, sabemos que nuestra fuerza de trabajo crea los laureles sobre los que descansan, exigimos menos horas de trabajo y mejores salarios.
+La única herramienta que tienen las bases populares para negociar con el gobierno son las molestias. La huelga general es una de las más grandes y efectivas molestias, el mensaje es fuerte y claro: estamos organizados, sabemos que de nuestra fuerza de trabajo depende la economía, el movimiento y la existencia del país, exigimos menos horas de trabajo y mejores salarios.
 
 En lo que se podrían llamar sociedades avanzadas en proceso de socialismo, durante el siglo 19 y 20, en las que los comunistas disputaban y obtenían poder real, en contraste a las pocas posibilidades de poder de base de nuestras sociedades contemporáneas, la huelga general crea una simetría de fuerzas y una posibilidad de negociación. En sociedades en las que el capitalismo es la mayor y aplastante hegemonía, se tienen que buscar formas de molestar que sean coherentes para con sus momentos históricos.
 
