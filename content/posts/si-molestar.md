@@ -2,6 +2,7 @@
 title: "Sí Molestar"
 date: 2026-08-21T15:17:56+02:00
 ---
+
 La única herramienta que tienen las bases populares para negociar con el gobierno son las molestias. La huelga general es una de las más grandes y efectivas molestias, el mensaje es fuerte y claro: estamos organizados, sabemos que nuestra fuerza de trabajo crea los laureles sobre los que descansan, exigimos menos horas de trabajo y mejores salarios.
 
 En la huelga general existe una simetría de fuerzas y una posibilidad de negociación, en lo que se podrían llamar sociedades avanzadas en proceso de socialismo, durante el siglo 19 y 20, en las que los comunistas disputaban y obtenían poder real, en contraste a las pocas posibilidades de poder de base de nuestras sociedades contemporáneas. En sociedades en las que el capitalismo es la mayor y aplastante hegemonía, se tienen que buscar formas de molestar que sean coherentes con sus momentos históricos, a su vez intentando crear una consciencia social en dirección a la huelga general.
@@ -10,7 +11,9 @@ Hay que molestar, y mucho. Campañas auto gestionadas, divulgación de conscienc
 
 La molestia es la herramienta de la auto emancipación de la clase trabajadora. Las mejoras materiales de nuestra realidad las tenemos que ganar una a una, molestando, poniendo cuerpo en territorio, creando y compartiendo posibilidades de emancipación y de mejora de la calidad de vida con nuestros vecinos, en nuestros barrios y ciudades.
 
-La acción directa, es la herramienta de negociación de la clase trabajadora. Es el ejercicio de la auto gestión. El socialismo es la sociedad realizada por sí misma: sus ciudadanos, la consciencia social y la cohesión de los trabajadores tiene que rebosar el espíritu de los pueblos, para volver a aspirar los horizontes de mejores posibilidades. Como nos recuerda Allende:
+La acción directa, es la herramienta de negociación de la clase trabajadora. Es el ejercicio de la auto gestión. El socialismo es la sociedad realizada por sí misma: sus ciudadanos, la consciencia social y la cohesión de los trabajadores tiene que rebosar el espíritu de los pueblos, para volver a aspirar los horizontes de mejores posibilidades.
+
+Como nos recuerda Allende:
 
 > _Superarán otros hombres este momento gris y amargo en el que la traición pretende imponerse. Sigan ustedes sabiendo que, mucho más temprano que tarde, de nuevo se abrirán las grandes alamedas por donde pase el hombre libre, para construir una sociedad mejor._
 
