@@ -11,7 +11,7 @@ Hay que molestar, y mucho. Campañas auto gestionadas, divulgación de conscienc
 
 La molestia es la herramienta de la auto emancipación de la clase trabajadora. Las mejoras materiales de nuestra realidad las tenemos que ganar una a una, molestando, poniendo cuerpo en territorio, creando y compartiendo posibilidades de emancipación y de mejora de la calidad de vida con nuestros vecinos, en nuestros barrios y ciudades.
 
-La acción directa, es la herramienta de negociación de la clase trabajadora. Es el ejercicio de la auto gestión. El socialismo es la sociedad realizada por sí misma: sus ciudadanos, la consciencia social y la cohesión de los trabajadores tiene que rebosar el espíritu de los pueblos, para volver a aspirar los horizontes de mejores posibilidades.
+La acción directa, es la herramienta de negociación de la clase trabajadora. Es el ejercicio de la auto gestión. Es el espíritu del socialismo como sociedad realizada por sí misma: sus ciudadanos, su consciencia social y la cohesión de sus trabajadores, dictaran el horizonte al que caminaremos en busca de mejores posibilidades vida.
 
 Como nos recuerda Allende:
 
