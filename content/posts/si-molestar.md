@@ -13,7 +13,5 @@ La molestia es la herramienta de la auto emancipación de la clase trabajadora. 
 La acción directa, es herramienta de negociación de la clase trabajadora. Es el ejercicio de la auto gestión. El socialismo es la sociedad realizada por sí misma: sus ciudadanos, la consciencia social y la cohesión de los trabajadores tiene que rebosar el espíritu de los pueblos, para volver a aspirar los horizontes de mejores posibilidades. Como nos recuerda Allende:
 
 > _Superarán otros hombres este momento gris y amargo en el que la traición pretende imponerse. Sigan ustedes sabiendo que, mucho más temprano que tarde, de nuevo se abrirán las grandes alamedas por donde pase el hombre libre, para construir una sociedad mejor._
->
-> _Estas son mis últimas palabras y tengo la certeza de que mi sacrificio no será en vano, tengo la certeza de que, por lo menos, será una lección moral que castigará la felonía, la cobardía y la traición._
 
 Acción directa contra el monopolio capitalista!
