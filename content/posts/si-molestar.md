@@ -4,7 +4,9 @@ date: 2026-08-21T15:17:56+02:00
 ---
 
 > _Superarán otros hombres este momento gris y amargo en el que la traición pretende imponerse. Sigan ustedes sabiendo que, mucho más temprano que tarde, de nuevo se abrirán las grandes alamedas por donde pase el hombre libre, para construir una sociedad mejor._
+
 > _Estas son mis últimas palabras y tengo la certeza de que mi sacrificio no será en vano, tengo la certeza de que, por lo menos, será una lección moral que castigará la felonía, la cobardía y la traición._
+
 > Salvador Allende
 
 La única herramienta que tienen las bases populares para negociar con el gobierno son las molestias. La huelga general es una de las más grandes y efectivas molestias, el mensaje es fuerte y claro: estamos organizados, sabemos que nuestra fuerza de trabajo son los laureles sobre los que descansan, exigimos menos horas de trabajo y mejores salarios.
