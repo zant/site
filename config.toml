@@ -1,6 +1,6 @@
 baseURL = "https://dump.zantwi.ch"
 languageCode = "en-us"
-title = "dump"
+title = "archivo"
 theme = "etch"
 [params]
 mainSections = ['posts']
